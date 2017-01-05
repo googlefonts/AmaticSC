@@ -138,12 +138,16 @@ ascender = 2384;
 capHeight = 1544;
 customParameters = (
 {
+name = hheaLineGap;
+value = 0;
+},
+{
 name = typoAscender;
-value = 1195;
+value = 2448;
 },
 {
 name = typoDescender;
-value = -265;
+value = -543;
 },
 {
 name = typoLineGap;
@@ -151,23 +155,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2332;
+value = 2448;
 },
 {
 name = winDescent;
-value = -543;
+value = 543;
 },
 {
 name = hheaAscender;
-value = 1195;
+value = 2448;
 },
 {
 name = hheaDescender;
-value = -265;
-},
-{
-name = hheaLineGap;
-value = 0;
+value = -543;
 }
 );
 descender = -505;
@@ -197,12 +197,24 @@ ascender = 2384;
 capHeight = 1552;
 customParameters = (
 {
+name = hheaAscender;
+value = 2448;
+},
+{
+name = hheaDescender;
+value = -543;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = typoAscender;
-value = 1195;
+value = 2448;
 },
 {
 name = typoDescender;
-value = -265;
+value = -543;
 },
 {
 name = typoLineGap;
@@ -210,23 +222,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2332;
+value = 2448;
 },
 {
 name = winDescent;
-value = -543;
-},
-{
-name = hheaAscender;
-value = 1195;
-},
-{
-name = hheaDescender;
-value = -265;
-},
-{
-name = hheaLineGap;
-value = 0;
+value = 543;
 }
 );
 descender = -505;
@@ -70147,7 +70147,9 @@ interpolationWidth = 3;
 instanceInterpolations = {
 "156B637B-193E-48A3-AAC8-7B4A3960F885" = 1;
 };
+isBold = 1;
 name = Bold;
+weightClass = Bold;
 }
 );
 kerning = {
