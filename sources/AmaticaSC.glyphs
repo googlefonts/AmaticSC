@@ -1,6 +1,6 @@
 {
 .appVersion = "957";
-copyright = "Copyright 2011 The Amatic Project Authors. ";
+copyright = "Copyright 2015 The Amatica SC Project Authors (hafontia@gmail.com)";
 customParameters = (
 {
 name = license;
@@ -2670,7 +2670,6 @@ name = D;
 },
 {
 name = Z;
-transform = "{1, 0, 0, 1, 780, 0}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -2703,7 +2702,7 @@ name = DZ;
 },
 {
 name = caroncomb.case;
-transform = "{1, 0, 0, 1, 691, 655}";
+transform = "{1, 0, 0, 1, -89, 655}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
