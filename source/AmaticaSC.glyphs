@@ -1,5 +1,5 @@
 {
-.appVersion = "939";
+.appVersion = "957";
 copyright = "Copyright 2011 The Amatic Project Authors. ";
 customParameters = (
 {
@@ -22,6 +22,14 @@ value = (
 {
 name = "Disable Last Change";
 value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = "Use Line Breaks";
+value = 1;
 }
 );
 date = "2016-05-31 13:50:19 +0000";
@@ -32,44 +40,88 @@ familyName = "Amatica SC";
 featurePrefixes = (
 {
 automatic = 1;
-code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem hebr dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012";
+code = "languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem hebr dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+";
 name = Languagesystems;
 }
 );
 features = (
 {
 automatic = 1;
-code = "feature ccmp;\012feature locl;\012feature frac;\012feature ordn;\012";
+code = "feature ccmp;
+feature locl;
+feature frac;
+feature ordn;
+";
 name = aalt;
 },
 {
 automatic = 1;
-code = "lookup ccmp_latn_1 {\012	script latn;\012	@CombiningTopAccents = [breveinvertedcomb commaturnedabovecomb dblgravecomb dotaccentcomb];\012	@CombiningNonTopAccents = [dotaboverightcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012} ccmp_latn_1;\012";
+code = "lookup ccmp_latn_1 {
+	script latn;
+	@CombiningTopAccents = [breveinvertedcomb commaturnedabovecomb dblgravecomb dotaccentcomb];
+	@CombiningNonTopAccents = [dotaboverightcomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+} ccmp_latn_1;
+";
 name = ccmp;
 },
 {
 automatic = 1;
-code = "script latn;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012";
+code = "script latn;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
+";
 name = locl;
 },
 {
 automatic = 1;
-code = "sub one slash four by onequarter;\012sub one slash two by onehalf;\012sub three slash four by threequarters;\012";
+code = "sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+";
 name = frac;
 },
 {
 automatic = 1;
-code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+";
 name = ordn;
 },
 {
 automatic = 1;
-code = "sub e e by e_e;\012sub l l by l_l;\012sub m m by m_m;\012";
+code = "sub e e by e_e;
+sub l l by l_l;
+sub m m by m_m;
+";
 name = dlig;
 },
 {
 automatic = 1;
-code = "sub f f l by f_f_l;\012sub f f i by f_f_i;\012sub f i by fi;\012sub f f by f_f;\012sub f l by fl;\012";
+code = "sub f f l by f_f_l;
+sub f f i by f_f_i;
+sub f i by fi;
+sub f f by f_f;
+sub f l by fl;
+";
 name = liga;
 }
 );
@@ -87,11 +139,11 @@ capHeight = 1544;
 customParameters = (
 {
 name = typoAscender;
-value = 2448;
+value = 1195;
 },
 {
 name = typoDescender;
-value = -543;
+value = -265;
 },
 {
 name = typoLineGap;
@@ -99,19 +151,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2448;
+value = 2332;
 },
 {
 name = winDescent;
-value = 543;
+value = -543;
 },
 {
 name = hheaAscender;
-value = 2448;
+value = 1195;
 },
 {
 name = hheaDescender;
-value = -543;
+value = -265;
 },
 {
 name = hheaLineGap;
@@ -146,11 +198,11 @@ capHeight = 1552;
 customParameters = (
 {
 name = typoAscender;
-value = 2448;
+value = 1195;
 },
 {
 name = typoDescender;
-value = -543;
+value = -265;
 },
 {
 name = typoLineGap;
@@ -158,19 +210,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2448;
+value = 2332;
 },
 {
 name = winDescent;
-value = 543;
+value = -543;
 },
 {
 name = hheaAscender;
-value = 2448;
+value = 1195;
 },
 {
 name = hheaDescender;
-value = -543;
+value = -265;
 },
 {
 name = hheaLineGap;
@@ -25124,11 +25176,11 @@ name = o;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, -102, 366}";
+transform = "{1, 0, 0, 1, -102, 406}";
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 2, 455}";
+transform = "{1, 0, 0, 1, 2, 495}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -25141,11 +25193,11 @@ name = o;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, -28, 10}";
+transform = "{1, 0, 0, 1, -28, 110}";
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, -123, 167}";
+transform = "{1, 0, 0, 1, -123, 267}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -48942,11 +48994,11 @@ glyphname = nbspace;
 layers = (
 {
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
-width = 0;
+width = 350;
 },
 {
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
-width = 600;
+width = 375;
 }
 );
 note = uni00A0;
@@ -48957,11 +49009,11 @@ glyphname = CR;
 layers = (
 {
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
-width = 682;
+width = 350;
 },
 {
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
-width = 682;
+width = 375;
 }
 );
 note = uni000D;
@@ -70004,13 +70056,14 @@ glyphname = NULL;
 layers = (
 {
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
-width = 600;
+width = 0;
 },
 {
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
-width = 600;
+width = 0;
 }
 );
+unicode = 0000;
 },
 {
 glyphname = IJacute;
@@ -70095,7 +70148,6 @@ interpolationWidth = 3;
 instanceInterpolations = {
 "156B637B-193E-48A3-AAC8-7B4A3960F885" = 1;
 };
-isBold = 1;
 name = Bold;
 }
 );
