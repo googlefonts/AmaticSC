@@ -34,7 +34,7 @@ value = 1;
 );
 date = "2016-05-31 13:50:19 +0000";
 designer = "Multiple Designers";
-designerURL = "http://hafontia.com";
+designerURL = "http://www.sansoxygen.com";
 disablesNiceNames = 1;
 familyName = "Amatic SC";
 featurePrefixes = (
@@ -6996,7 +6996,7 @@ transform = "{1, 0, 0, 1, 513, 0}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
-width = 1148;
+width = 1033;
 }
 );
 note = uni01C8;
@@ -8564,7 +8564,7 @@ transform = "{1, 0, 0, 1, 843, 0}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
-width = 1478;
+width = 1363;
 }
 );
 note = uni01CB;
@@ -15603,7 +15603,7 @@ name = a;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 157, 320}";
+transform = "{1, 0, 0, 1, 157, 310}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -15616,7 +15616,7 @@ name = a;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 95, 110}";
+transform = "{1, 0, 0, 1, 95, 150}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -15649,7 +15649,7 @@ name = a;
 },
 {
 name = brevecomb;
-transform = "{1, 0, 0, 1, -10, 60}";
+transform = "{1, 0, 0, 1, -10, 120}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -15673,7 +15673,7 @@ transform = "{1, 0, 0, 1, 42, 423}";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 157, 602}";
+transform = "{1, 0, 0, 1, 157, 592}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -15686,11 +15686,11 @@ name = a;
 },
 {
 name = brevecomb;
-transform = "{1, 0, 0, 1, -10, 60}";
+transform = "{1, 0, 0, 1, -10, 120}";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 95, 396}";
+transform = "{1, 0, 0, 1, 95, 496}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -15726,7 +15726,7 @@ name = a;
 },
 {
 name = brevecomb;
-transform = "{1, 0, 0, 1, -10, 60}";
+transform = "{1, 0, 0, 1, -10, 120}";
 },
 {
 name = dotbelowcomb;
@@ -15753,7 +15753,7 @@ transform = "{1, 0, 0, 1, 42, 423}";
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 162, 574}";
+transform = "{1, 0, 0, 1, 122, 574}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -15766,11 +15766,11 @@ name = a;
 },
 {
 name = brevecomb;
-transform = "{1, 0, 0, 1, -10, 60}";
+transform = "{1, 0, 0, 1, -10, 120}";
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, -207, 326}";
+transform = "{1, 0, 0, 1, -207, 436}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -15806,11 +15806,11 @@ name = a;
 },
 {
 name = brevecomb;
-transform = "{1, 0, 0, 1, -10, 60}";
+transform = "{1, 0, 0, 1, -10, 120}";
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 31, 571}";
+transform = "{1, 0, 0, 1, 31, 631}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -15846,11 +15846,11 @@ name = a;
 },
 {
 name = brevecomb;
-transform = "{1, 0, 0, 1, -10, 60}";
+transform = "{1, 0, 0, 1, -10, 120}";
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, -76, 386}";
+transform = "{1, 0, 0, 1, -76, 446}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -16144,7 +16144,7 @@ name = a;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, -76, 386}";
+transform = "{1, 0, 0, 1, -76, 426}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -16157,7 +16157,7 @@ name = a;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 9, 40}";
+transform = "{1, 0, 0, 1, 9, 140}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -16243,7 +16243,7 @@ name = a;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 162, 292}";
+transform = "{1, 0, 0, 1, 122, 292}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -16256,7 +16256,7 @@ name = a;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, -207, 40}";
+transform = "{1, 0, 0, 1, -207, 90}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -16420,7 +16420,7 @@ name = a;
 },
 {
 name = ringcomb;
-transform = "{1, 0, 0, 1, -91, 40}";
+transform = "{1, 0, 0, 1, -91, 130}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -16444,7 +16444,7 @@ transform = "{1, 0, 0, 1, 78, 343}";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 157, 586}";
+transform = "{1, 0, 0, 1, 157, 576}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -16457,11 +16457,11 @@ name = a;
 },
 {
 name = ringcomb;
-transform = "{1, 0, 0, 1, -91, 40}";
+transform = "{1, 0, 0, 1, -91, 130}";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 95, 437}";
+transform = "{1, 0, 0, 1, 95, 567}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -16852,7 +16852,7 @@ name = ae;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 313, 329}";
+transform = "{1, 0, 0, 1, 313, 319}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -16865,7 +16865,7 @@ name = ae;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 371, 303}";
+transform = "{1, 0, 0, 1, 371, 343}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -17448,7 +17448,7 @@ name = c;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 68, 300}";
+transform = "{1, 0, 0, 1, 68, 290}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -17461,7 +17461,7 @@ name = c;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 25, 70}";
+transform = "{1, 0, 0, 1, 25, 110}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -70222,8 +70222,8 @@ period = -100;
 };
 };
 };
-manufacturer = newtypography;
-manufacturerURL = "http://hafontia.com";
+manufacturer = "Vernon Adams";
+manufacturerURL = "http://www.sansoxygen.com";
 unitsPerEm = 2048;
 versionMajor = 2;
 versionMinor = 0;
