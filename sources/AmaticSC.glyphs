@@ -1,6 +1,6 @@
 {
-.appVersion = "957";
-copyright = "Copyright 2015 The Amatica SC Project Authors (hafontia@gmail.com)";
+.appVersion = "964";
+copyright = "Copyright 2015 The Amatic SC Project Authors (contact@sansoxygen.com)";
 customParameters = (
 {
 name = license;
@@ -36,7 +36,7 @@ date = "2016-05-31 13:50:19 +0000";
 designer = "Multiple Designers";
 designerURL = "http://hafontia.com";
 disablesNiceNames = 1;
-familyName = "Amatica SC";
+familyName = "Amatic SC";
 featurePrefixes = (
 {
 automatic = 1;
@@ -138,16 +138,12 @@ ascender = 2384;
 capHeight = 1544;
 customParameters = (
 {
-name = hheaLineGap;
-value = 0;
-},
-{
 name = typoAscender;
-value = 2448;
+value = 2081;
 },
 {
 name = typoDescender;
-value = -543;
+value = -501;
 },
 {
 name = typoLineGap;
@@ -155,19 +151,23 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2448;
+value = 2081;
 },
 {
 name = winDescent;
-value = 543;
+value = 501;
 },
 {
 name = hheaAscender;
-value = 2448;
+value = 2081;
 },
 {
 name = hheaDescender;
-value = -543;
+value = -501;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -505;
@@ -197,24 +197,12 @@ ascender = 2384;
 capHeight = 1552;
 customParameters = (
 {
-name = hheaAscender;
-value = 2448;
-},
-{
-name = hheaDescender;
-value = -543;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
 name = typoAscender;
-value = 2448;
+value = 2081;
 },
 {
 name = typoDescender;
-value = -543;
+value = -501;
 },
 {
 name = typoLineGap;
@@ -222,11 +210,23 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2448;
+value = 2081;
 },
 {
 name = winDescent;
-value = 543;
+value = 501;
+},
+{
+name = hheaAscender;
+value = 2081;
+},
+{
+name = hheaDescender;
+value = -501;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -505;
@@ -2670,6 +2670,7 @@ name = D;
 },
 {
 name = Z;
+transform = "{1, 0, 0, 1, 780, 0}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -2702,7 +2703,7 @@ name = DZ;
 },
 {
 name = caroncomb.case;
-transform = "{1, 0, 0, 1, -89, 655}";
+transform = "{1, 0, 0, 1, 691, 655}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
