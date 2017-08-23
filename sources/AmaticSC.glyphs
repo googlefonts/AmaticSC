@@ -1,6 +1,6 @@
 {
-.appVersion = "964";
-copyright = "Copyright 2015 The Amatic SC Project Authors (contact@sansoxygen.com)";
+.appVersion = "1057";
+copyright = "Copyright 2015 The Amatic SC Project Authors (https://github.com/googlefonts/AmaticSC)";
 customParameters = (
 {
 name = license;
