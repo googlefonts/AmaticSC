@@ -32,7 +32,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2016-05-31 13:50:19 +0000";
+date = "2017-10-13 20:49:07 +0000";
 designer = "Multiple Designers";
 designerURL = "http://www.sansoxygen.com";
 disablesNiceNames = 1;
@@ -75901,5 +75901,5 @@ manufacturer = "Vernon Adams";
 manufacturerURL = "http://www.sansoxygen.com";
 unitsPerEm = 2048;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 100;
 }
