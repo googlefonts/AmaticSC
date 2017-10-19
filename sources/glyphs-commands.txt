@@ -1,3 +1,5 @@
+Tshe-cy=Shha-cy 
+
 Y=Ustrait-cy
 y=ustrait-cy
 Ustrait-cy+strokeshortcomb=Ustraitstroke-cy
