@@ -1,8 +1,5 @@
 {
 .appVersion = "1057";
-DisplayStrings = (
-"\012\012Ama/te-cy/ii-cy/ka-cy  \012/Te-cy/ie-cy/pe-cy/ie-cy/er-cy/softsign-cy  /es-cy  /ka-cy/ii-cy/er-cy/ii-cy/el-cy/el-cy/ii-cy/tse-cy/ie-cy/iishort-cy !"
-);
 copyright = "Copyright 2015 The Amatic SC Project Authors (https://github.com/googlefonts/AmaticSC)";
 customParameters = (
 {
