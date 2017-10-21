@@ -81654,12 +81654,22 @@ unicode = 005F;
 glyphname = periodcentered.loclCAT.case;
 layers = (
 {
+components = (
+{
+name = periodcentered;
+}
+);
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
-width = 293;
+width = 147;
 },
 {
+components = (
+{
+name = periodcentered;
+}
+);
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
-width = 293;
+width = 289;
 }
 );
 },
@@ -81667,12 +81677,22 @@ width = 293;
 glyphname = periodcentered.loclCAT;
 layers = (
 {
+components = (
+{
+name = periodcentered;
+}
+);
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
-width = 293;
+width = 147;
 },
 {
+components = (
+{
+name = periodcentered;
+}
+);
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
-width = 293;
+width = 289;
 }
 );
 },
