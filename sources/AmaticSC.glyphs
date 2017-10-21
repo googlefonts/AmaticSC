@@ -32,7 +32,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2017-10-13 20:49:07 +0000";
+date = "2017-10-21 08:34:17 +0000";
 designer = "Multiple Designers";
 designerURL = "http://www.sansoxygen.com";
 disablesNiceNames = 1;
@@ -46689,7 +46689,7 @@ rightMetricsKey = "Softsign-cy";
 unicode = 0462;
 },
 {
-color = 7;
+color = 8;
 glyphname = "Yusbig-cy";
 layers = (
 {
@@ -64272,7 +64272,7 @@ leftMetricsKey = t;
 unicode = 0463;
 },
 {
-color = 7;
+color = 8;
 glyphname = "yusbig-cy";
 layers = (
 {
@@ -110234,5 +110234,5 @@ manufacturer = "Vernon Adams";
 manufacturerURL = "http://www.sansoxygen.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 100;
+versionMinor = 500;
 }
