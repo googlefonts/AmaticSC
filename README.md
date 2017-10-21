@@ -9,3 +9,7 @@ Ben Nathan, an Israeli designer, added a Hebrew component and adjusted the Latin
 ![Amatic Preview 2](documentation/2.png)
 
 ![Amatic Preview 3](documentation/3.png)
+
+Amatic now speaks Cyrillic with glyphs drawn by calligrapher Eugene Spizhovy.
+
+![Amatic Cyrillic](documentation/Cyrillic.png)
