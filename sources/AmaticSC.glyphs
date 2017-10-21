@@ -1,5 +1,9 @@
 {
 .appVersion = "1057";
+DisplayStrings = (
+/IJacute/ijacute,
+/IJacute
+);
 copyright = "Copyright 2015 The Amatic SC Project Authors (https://github.com/googlefonts/AmaticSC)";
 customParameters = (
 {
@@ -104468,6 +104472,20 @@ width = 439;
 );
 },
 {
+export = 0;
+glyphname = caroncomb.alt;
+layers = (
+{
+layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
+width = 293;
+},
+{
+layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
+width = 293;
+}
+);
+},
+{
 glyphname = apostrophemod;
 layers = (
 {
@@ -108222,6 +108240,93 @@ width = 99;
 unicode = 05C7;
 },
 {
+glyphname = "brevecomb-cy";
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{147, 659}";
+}
+);
+layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
+paths = (
+{
+closed = 1;
+nodes = (
+"180.385 750.23 OFFCURVE",
+"190.688 761.128 OFFCURVE",
+"200.892 771.883 CURVE",
+"219.541 791.508 OFFCURVE",
+"212.232 811.265 OFFCURVE",
+"180.232 819 CURVE",
+"181.062 796.499 OFFCURVE",
+"169.077 783.552 OFFCURVE",
+"154.066 772.015 CURVE",
+"134.827 757.228 OFFCURVE",
+"131.669 757.316 OFFCURVE",
+"116.931 776.764 CURVE",
+"105.492 791.871 OFFCURVE",
+"103.755 792.378 OFFCURVE",
+"85.007 786.307 CURVE",
+"76.606 769.844 OFFCURVE",
+"87.509 758.605 OFFCURVE",
+"96.872 749.162 CURVE",
+"121.552 724.259 OFFCURVE",
+"146.801 723.476 OFFCURVE",
+"168.848 741.041 CURVE"
+);
+}
+);
+width = 293;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{143, 667}";
+}
+);
+layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
+paths = (
+{
+closed = 1;
+nodes = (
+"170 724 OFFCURVE",
+"204 737 OFFCURVE",
+"220 786 CURVE",
+"221 789 OFFCURVE",
+"223 792 OFFCURVE",
+"224 796 CURVE",
+"231 811 OFFCURVE",
+"224 829 OFFCURVE",
+"209 836 CURVE",
+"198 842 OFFCURVE",
+"184 835 OFFCURVE",
+"175 819 CURVE",
+"171 812 OFFCURVE",
+"168 804 OFFCURVE",
+"163 797 CURVE",
+"151 779 OFFCURVE",
+"136 777 OFFCURVE",
+"123 793 CURVE",
+"111 807 OFFCURVE",
+"98 808 OFFCURVE",
+"83 807 CURVE",
+"66 806 OFFCURVE",
+"57 793 OFFCURVE",
+"61 776 CURVE",
+"67 747 OFFCURVE",
+"99 722 OFFCURVE",
+"129 723 CURVE SMOOTH"
+);
+}
+);
+width = 287;
+}
+);
+},
+{
 glyphname = "brevecomb-cy.case";
 layers = (
 {
@@ -108323,94 +108428,6 @@ nodes = (
 }
 );
 width = 293;
-}
-);
-},
-{
-export = 0;
-glyphname = "brevecomb-cy";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{147, 659}";
-}
-);
-layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
-paths = (
-{
-closed = 1;
-nodes = (
-"180.385 750.23 OFFCURVE",
-"190.688 761.128 OFFCURVE",
-"200.892 771.883 CURVE",
-"219.541 791.508 OFFCURVE",
-"212.232 811.265 OFFCURVE",
-"180.232 819 CURVE",
-"181.062 796.499 OFFCURVE",
-"169.077 783.552 OFFCURVE",
-"154.066 772.015 CURVE",
-"134.827 757.228 OFFCURVE",
-"131.669 757.316 OFFCURVE",
-"116.931 776.764 CURVE",
-"105.492 791.871 OFFCURVE",
-"103.755 792.378 OFFCURVE",
-"85.007 786.307 CURVE",
-"76.606 769.844 OFFCURVE",
-"87.509 758.605 OFFCURVE",
-"96.872 749.162 CURVE",
-"121.552 724.259 OFFCURVE",
-"146.801 723.476 OFFCURVE",
-"168.848 741.041 CURVE"
-);
-}
-);
-width = 293;
-},
-{
-anchors = (
-{
-name = _top;
-position = "{143, 667}";
-}
-);
-layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
-paths = (
-{
-closed = 1;
-nodes = (
-"170 724 OFFCURVE",
-"204 737 OFFCURVE",
-"220 786 CURVE",
-"221 789 OFFCURVE",
-"223 792 OFFCURVE",
-"224 796 CURVE",
-"231 811 OFFCURVE",
-"224 829 OFFCURVE",
-"209 836 CURVE",
-"198 842 OFFCURVE",
-"184 835 OFFCURVE",
-"175 819 CURVE",
-"171 812 OFFCURVE",
-"168 804 OFFCURVE",
-"163 797 CURVE",
-"151 779 OFFCURVE",
-"136 777 OFFCURVE",
-"123 793 CURVE",
-"111 807 OFFCURVE",
-"98 808 OFFCURVE",
-"83 807 CURVE",
-"66 806 OFFCURVE",
-"57 793 OFFCURVE",
-"61 776 CURVE",
-"67 747 OFFCURVE",
-"99 722 OFFCURVE",
-"129 723 CURVE SMOOTH"
-);
-}
-);
-width = 287;
 }
 );
 },
@@ -110228,19 +110245,6 @@ transform = "{1, 0, 0, 1, -3, 137}";
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
 width = 477;
-}
-);
-},
-{
-glyphname = caronalt;
-layers = (
-{
-layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
-width = 293;
-},
-{
-layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
-width = 293;
 }
 );
 }
