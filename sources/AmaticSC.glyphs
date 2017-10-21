@@ -1,5 +1,8 @@
 {
 .appVersion = "1057";
+DisplayStrings = (
+"ee ff fi fl mm l\U00B7 3// 1// L\U00B7  L/periodcentered.loclCAT  l/periodcentered.loclCAT     "
+);
 copyright = "Copyright 2015 The Amatic SC Project Authors (https://github.com/googlefonts/AmaticSC)";
 customParameters = (
 {
@@ -81651,39 +81654,17 @@ note = underscore;
 unicode = 005F;
 },
 {
-glyphname = periodcentered.loclCAT.case;
-layers = (
-{
-components = (
-{
-name = periodcentered;
-}
-);
-layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
-width = 147;
-},
-{
-components = (
-{
-name = periodcentered;
-}
-);
-layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
-width = 289;
-}
-);
-},
-{
 glyphname = periodcentered.loclCAT;
 layers = (
 {
 components = (
 {
 name = periodcentered;
+transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
-width = 147;
+width = 137;
 },
 {
 components = (
@@ -107523,6 +107504,7 @@ S = -39.0625;
 };
 l = {
 quoteright = -59.57031;
+periodcentered.loclCAT = -80;
 };
 "lamed-hb" = {
 "bet-hb" = -14.64844;
@@ -107547,6 +107529,15 @@ s = -19.53125;
 "yod-hb" = {
 "bet-hb" = -48.82812;
 "yod-hb" = -14.64844;
+};
+L = {
+periodcentered.loclCAT = -100;
+};
+three = {
+slash = -40;
+};
+one = {
+slash = -30;
 };
 };
 "156B637B-193E-48A3-AAC8-7B4A3960F885" = {
