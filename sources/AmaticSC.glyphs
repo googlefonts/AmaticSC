@@ -96445,6 +96445,161 @@ period = -48.82812;
 "ka-cy" = {
 "o-cy" = -20;
 };
+A = {
+"Che-cy" = -10;
+"U-cy" = -10;
+"Ze-cy" = -10;
+quoteleft = -60;
+quoteright = -30;
+quotesingle = -80;
+};
+quotesingle = {
+O = -40;
+};
+B = {
+"de-cy" = -10;
+parenright = -40;
+};
+"Be-cy" = {
+"Ia-cy" = -10;
+};
+D = {
+period = -120;
+quoteleft = -40;
+};
+"Ge-cy" = {
+A = -30;
+"De-cy" = -30;
+"El-cy" = -30;
+"Ia-cy" = -20;
+O = -10;
+"Ze-cy" = -10;
+a = -40;
+"be-cy" = -20;
+"che-cy" = -30;
+"de-cy" = -60;
+"el-cy" = -40;
+"ereversed-cy" = -20;
+"ia-cy" = -30;
+n = -20;
+o = -20;
+v = -20;
+"ze-cy" = -30;
+};
+K = {
+"che-cy" = -30;
+v = -20;
+};
+"Ka-cy" = {
+"Ze-cy" = -10;
+"che-cy" = -20;
+"be-cy" = -10;
+guilsinglleft = -50;
+hyphen = -50;
+guillemetleft = -20;
+};
+O = {
+"Ze-cy" = -10;
+comma = -70;
+};
+L = {
+asterisk = -50;
+quoteleft = -100;
+quoteright = -90;
+quotesingle = -50;
+};
+P = {
+A = -40;
+"De-cy" = -20;
+"El-cy" = -30;
+a = -30;
+four = -30;
+guilsinglleft = -30;
+hyphen = -60;
+parenright = -50;
+period = -170;
+AE = -60;
+};
+period = {
+O = -50;
+};
+R = {
+backslash = -40;
+quoteleft = -40;
+};
+backslash = {
+O = -50;
+};
+"Softsign-cy" = {
+T = -30;
+"U-cy" = -10;
+Y = -20;
+"Ze-cy" = -20;
+};
+T = {
+A = -20;
+"De-cy" = -30;
+"El-cy" = -30;
+a = -20;
+"che-cy" = -20;
+"be-cy" = -20;
+"el-cy" = -40;
+"ze-cy" = -30;
+"zhe-cy" = -10;
+};
+"Tse-cy" = {
+"ia-cy" = 20;
+quotesingle = -80;
+};
+V = {
+A = -40;
+"De-cy" = -50;
+"El-cy" = -40;
+"Ia-cy" = -30;
+a = -40;
+ampersand = -60;
+at = -30;
+};
+"u-cy" = {
+"de-cy" = -40;
+"el-cy" = -20;
+"a-cy" = -10;
+};
+"ve-cy" = {
+"el-cy" = -20;
+"de-cy" = -10;
+quotesingle = -60;
+};
+v = {
+quotesingle = -20;
+period = -90;
+};
+t = {
+quotesingle = -30;
+};
+"softsign-cy" = {
+quotesingle = -50;
+quoteleft = -60;
+};
+seven = {
+period = -70;
+hyphen = -30;
+four = -40;
+};
+p = {
+"de-cy" = -30;
+"el-cy" = -20;
+};
+"ge-cy" = {
+"de-cy" = -30;
+};
+"U-cy" = {
+"el-cy" = -30;
+"de-cy" = -40;
+a = -10;
+"De-cy" = -10;
+A = -10;
+};
 };
 };
 manufacturer = "Vernon Adams";
