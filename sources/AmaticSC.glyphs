@@ -1,5 +1,8 @@
 {
 .appVersion = "1076";
+DisplayStrings = (
+"/ereversed-cy"
+);
 classes = (
 {
 automatic = 1;
@@ -43693,12 +43696,6 @@ nodes = (
 "104 -3 OFFCURVE",
 "126 -8 OFFCURVE",
 "146 -8 CURVE SMOOTH"
-);
-},
-{
-closed = 0;
-nodes = (
-"403 477 LINE"
 );
 }
 );
