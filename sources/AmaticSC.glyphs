@@ -1,5 +1,5 @@
 {
-.appVersion = "1057";
+.appVersion = "1076";
 classes = (
 {
 automatic = 1;
@@ -63050,48 +63050,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"209 11 OFFCURVE",
-"204 14 OFFCURVE",
-"204 27 CURVE",
-"204 100 LINE SMOOTH",
-"204 440 OFFCURVE",
-"212 570 OFFCURVE",
-"162 604 CURVE SMOOTH",
-"115 636 OFFCURVE",
-"39 591 OFFCURVE",
-"40 644 CURVE SMOOTH",
-"41 692 OFFCURVE",
-"131 663 OFFCURVE",
-"162 654 CURVE SMOOTH",
-"248 631 OFFCURVE",
-"251 536 OFFCURVE",
-"251 258 CURVE SMOOTH",
-"251 256 OFFCURVE",
-"251 253 OFFCURVE",
-"251 250 CURVE SMOOTH",
-"250 246 OFFCURVE",
-"250 243 OFFCURVE",
-"250 241 CURVE SMOOTH",
-"250 232 OFFCURVE",
-"251 218 OFFCURVE",
-"253 199 CURVE SMOOTH",
-"254 181 OFFCURVE",
-"255 167 OFFCURVE",
-"255 158 CURVE SMOOTH",
-"255 147 OFFCURVE",
-"256 130 OFFCURVE",
-"258 108 CURVE SMOOTH",
-"261 85 OFFCURVE",
-"262 40 OFFCURVE",
-"262 28 CURVE SMOOTH",
-"262 10 OFFCURVE",
-"265 0 OFFCURVE",
-"232 0 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
 "265 0 OFFCURVE",
 "262 10 OFFCURVE",
 "262 28 CURVE SMOOTH",
@@ -76073,7 +76031,7 @@ layers = (
 components = (
 {
 name = U;
-transform = "{-1, 0, 0, -1, 372, 740}";
+transform = "{-1, 0, 0, -1, 372, 754}";
 },
 {
 name = bar;
@@ -96442,65 +96400,6 @@ weightClass = Bold;
 );
 kerning = {
 "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70" = {
-S = {
-S = -39.0625;
-};
-"dalet-hb" = {
-"bet-hb" = -53.71094;
-};
-l = {
-quoteright = -59.57031;
-periodcentered.loclCAT = -80;
-};
-"lamed-hb" = {
-"bet-hb" = -14.64844;
-};
-"mem-hb" = {
-"yod-hb" = -14.64844;
-};
-"resh-hb" = {
-"alef-hb" = -19.53125;
-"bet-hb" = -19.53125;
-period = -48.82812;
-};
-s = {
-s = -19.53125;
-};
-"tav-hb" = {
-"yod-hb" = -9.76562;
-};
-"vav-hb" = {
-"bet-hb" = -19.53125;
-};
-"yod-hb" = {
-"bet-hb" = -48.82812;
-"yod-hb" = -14.64844;
-};
-L = {
-periodcentered.loclCAT = -100;
-asterisk = -20;
-quoteright = -30;
-quotesingle = -40;
-};
-three = {
-slash = -40;
-};
-one = {
-slash = -30;
-};
-"O-cy" = {
-"El-cy" = -30;
-};
-"o-cy" = {
-"el-cy" = -10;
-"de-cy" = -10;
-};
-"gheupturn-cy" = {
-"o-cy" = -10;
-};
-o = {
-"de-cy" = -10;
-};
 A = {
 "Che-cy" = -10;
 "U-cy" = -10;
@@ -96509,22 +96408,11 @@ quoteleft = -20;
 quoteright = -20;
 quotesingle = -40;
 };
-O = {
-quotesingle = -30;
-comma = -20;
-P = 0;
-};
-quotesingle = {
-O = -30;
-};
 B = {
 "de-cy" = -10;
 };
 D = {
 period = -50;
-};
-period = {
-O = -50;
 };
 "Ge-cy" = {
 A = -30;
@@ -96547,22 +96435,36 @@ v = -20;
 "Ka-cy" = {
 "Ze-cy" = 20;
 "be-cy" = 10;
-hyphen = -10;
 guilsinglleft = -40;
+hyphen = -10;
+};
+L = {
+asterisk = -20;
+periodcentered.loclCAT = -100;
+quoteright = -30;
+quotesingle = -40;
+};
+O = {
+P = 0;
+comma = -20;
+quotesingle = -30;
+};
+"O-cy" = {
+"El-cy" = -30;
 };
 P = {
-a = -30;
+AE = -10;
 "El-cy" = -10;
+a = -30;
 four = -20;
 period = -70;
-AE = -10;
 };
 R = {
 backslash = -20;
 quoteleft = -20;
 };
-backslash = {
-O = -20;
+S = {
+S = -39.0625;
 };
 "Softsign-cy" = {
 T = -10;
@@ -96573,8 +96475,8 @@ A = -30;
 "De-cy" = -10;
 "El-cy" = -10;
 a = -40;
-"che-cy" = -10;
 "be-cy" = -10;
+"che-cy" = -10;
 "el-cy" = -40;
 "ze-cy" = -30;
 "zhe-cy" = -20;
@@ -96583,97 +96485,107 @@ a = -40;
 "ia-cy" = 20;
 quotesingle = -40;
 };
+"U-cy" = {
+A = -20;
+a = -20;
+"de-cy" = -30;
+"el-cy" = -20;
+};
 V = {
 A = -30;
 a = -20;
 ampersand = -10;
 };
-"u-cy" = {
-"de-cy" = -60;
-"el-cy" = -40;
-"a-cy" = -40;
+backslash = {
+O = -20;
 };
-"ve-cy" = {
-"el-cy" = -20;
-"de-cy" = -20;
-quotesingle = -50;
+"dalet-hb" = {
+"bet-hb" = -53.71094;
 };
-v = {
-quotesingle = -40;
-period = -60;
+"ge-cy" = {
+"de-cy" = -10;
 };
-t = {
-quotesingle = -40;
+"gheupturn-cy" = {
+"o-cy" = -10;
 };
-"softsign-cy" = {
-quotesingle = -70;
-quoteleft = -40;
+l = {
+periodcentered.loclCAT = -80;
+quoteright = -59.57031;
 };
-seven = {
-period = -50;
-four = -30;
+"lamed-hb" = {
+"bet-hb" = -14.64844;
+};
+"mem-hb" = {
+"yod-hb" = -14.64844;
+};
+o = {
+"de-cy" = -10;
+};
+"o-cy" = {
+"de-cy" = -10;
+"el-cy" = -10;
+};
+one = {
+slash = -30;
 };
 p = {
 "de-cy" = -20;
 "el-cy" = -10;
 };
-"ge-cy" = {
-"de-cy" = -10;
+period = {
+O = -50;
 };
-"U-cy" = {
-"el-cy" = -20;
-"de-cy" = -30;
-a = -20;
-A = -20;
-};
-};
-"156B637B-193E-48A3-AAC8-7B4A3960F885" = {
-S = {
-S = -24.41406;
-};
-"bet-hb" = {
-"lamed-hb" = -14.64844;
-};
-"gimel-hb" = {
-"lamed-hb" = -9.76562;
-};
-"lamed-hb" = {
-"bet-hb" = -19.53125;
-};
-"mem-hb" = {
-"yod-hb" = -14.64844;
+quotesingle = {
+O = -30;
 };
 "resh-hb" = {
+"alef-hb" = -19.53125;
+"bet-hb" = -19.53125;
 period = -48.82812;
+};
+s = {
+s = -19.53125;
+};
+seven = {
+four = -30;
+period = -50;
+};
+"softsign-cy" = {
+quoteleft = -40;
+quotesingle = -70;
+};
+t = {
+quotesingle = -40;
 };
 "tav-hb" = {
 "yod-hb" = -9.76562;
 };
+three = {
+slash = -40;
+};
+"u-cy" = {
+"a-cy" = -40;
+"de-cy" = -60;
+"el-cy" = -40;
+};
+v = {
+period = -60;
+quotesingle = -40;
+};
 "vav-hb" = {
-"bet-hb" = -48.82812;
-"kaf-hb" = -24.41406;
+"bet-hb" = -19.53125;
+};
+"ve-cy" = {
+"de-cy" = -20;
+"el-cy" = -20;
+quotesingle = -50;
 };
 "yod-hb" = {
 "bet-hb" = -48.82812;
-"vav-hb" = -9.76562;
 "yod-hb" = -14.64844;
 };
-"o-cy" = {
-"el-cy" = -40;
-"de-cy" = -30;
 };
-"tse-cy" = {
-"o-cy" = -10;
-};
-"gheupturn-cy" = {
-"o-cy" = -20;
-};
-"de-cy" = {
-"o-cy" = -10;
-};
-"ka-cy" = {
-"o-cy" = -20;
-};
+"156B637B-193E-48A3-AAC8-7B4A3960F885" = {
 A = {
 "Che-cy" = -10;
 "U-cy" = -10;
@@ -96681,9 +96593,6 @@ A = {
 quoteleft = -60;
 quoteright = -30;
 quotesingle = -80;
-};
-quotesingle = {
-O = -40;
 };
 B = {
 "de-cy" = -10;
@@ -96721,15 +96630,11 @@ v = -20;
 };
 "Ka-cy" = {
 "Ze-cy" = -10;
-"che-cy" = -20;
 "be-cy" = -10;
+"che-cy" = -20;
+guillemetleft = -20;
 guilsinglleft = -50;
 hyphen = -50;
-guillemetleft = -20;
-};
-O = {
-"Ze-cy" = -10;
-comma = -70;
 };
 L = {
 asterisk = -50;
@@ -96737,8 +96642,13 @@ quoteleft = -100;
 quoteright = -90;
 quotesingle = -50;
 };
+O = {
+"Ze-cy" = -10;
+comma = -70;
+};
 P = {
 A = -40;
+AE = -60;
 "De-cy" = -20;
 "El-cy" = -30;
 a = -30;
@@ -96747,17 +96657,13 @@ guilsinglleft = -30;
 hyphen = -60;
 parenright = -50;
 period = -170;
-AE = -60;
-};
-period = {
-O = -50;
 };
 R = {
 backslash = -40;
 quoteleft = -40;
 };
-backslash = {
-O = -50;
+S = {
+S = -24.41406;
 };
 "Softsign-cy" = {
 T = -30;
@@ -96770,8 +96676,8 @@ A = -20;
 "De-cy" = -30;
 "El-cy" = -30;
 a = -20;
-"che-cy" = -20;
 "be-cy" = -20;
+"che-cy" = -20;
 "el-cy" = -40;
 "ze-cy" = -30;
 "zhe-cy" = -10;
@@ -96779,6 +96685,13 @@ a = -20;
 "Tse-cy" = {
 "ia-cy" = 20;
 quotesingle = -80;
+};
+"U-cy" = {
+A = -10;
+"De-cy" = -10;
+a = -10;
+"de-cy" = -40;
+"el-cy" = -30;
 };
 V = {
 A = -40;
@@ -96789,45 +96702,90 @@ a = -40;
 ampersand = -60;
 at = -30;
 };
-"u-cy" = {
-"de-cy" = -40;
-"el-cy" = -20;
-"a-cy" = -10;
+backslash = {
+O = -50;
 };
-"ve-cy" = {
-"el-cy" = -20;
-"de-cy" = -10;
-quotesingle = -60;
+"bet-hb" = {
+"lamed-hb" = -14.64844;
 };
-v = {
-quotesingle = -20;
-period = -90;
+"de-cy" = {
+"o-cy" = -10;
 };
-t = {
-quotesingle = -30;
+"ge-cy" = {
+"de-cy" = -30;
 };
-"softsign-cy" = {
-quotesingle = -50;
-quoteleft = -60;
+"gheupturn-cy" = {
+"o-cy" = -20;
 };
-seven = {
-period = -70;
-hyphen = -30;
-four = -40;
+"gimel-hb" = {
+"lamed-hb" = -9.76562;
+};
+"ka-cy" = {
+"o-cy" = -20;
+};
+"lamed-hb" = {
+"bet-hb" = -19.53125;
+};
+"mem-hb" = {
+"yod-hb" = -14.64844;
+};
+"o-cy" = {
+"de-cy" = -30;
+"el-cy" = -40;
 };
 p = {
 "de-cy" = -30;
 "el-cy" = -20;
 };
-"ge-cy" = {
-"de-cy" = -30;
+period = {
+O = -50;
 };
-"U-cy" = {
-"el-cy" = -30;
+quotesingle = {
+O = -40;
+};
+"resh-hb" = {
+period = -48.82812;
+};
+seven = {
+four = -40;
+hyphen = -30;
+period = -70;
+};
+"softsign-cy" = {
+quoteleft = -60;
+quotesingle = -50;
+};
+t = {
+quotesingle = -30;
+};
+"tav-hb" = {
+"yod-hb" = -9.76562;
+};
+"tse-cy" = {
+"o-cy" = -10;
+};
+"u-cy" = {
+"a-cy" = -10;
 "de-cy" = -40;
-a = -10;
-"De-cy" = -10;
-A = -10;
+"el-cy" = -20;
+};
+v = {
+period = -90;
+quotesingle = -20;
+};
+"vav-hb" = {
+"bet-hb" = -48.82812;
+"kaf-hb" = -24.41406;
+};
+"ve-cy" = {
+"de-cy" = -10;
+"el-cy" = -20;
+quotesingle = -60;
+};
+"yod-hb" = {
+"bet-hb" = -48.82812;
+"vav-hb" = -9.76562;
+"yod-hb" = -14.64844;
 };
 };
 };
