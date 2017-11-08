@@ -1,7 +1,7 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"/apostrophemod/gravecomb/acutecomb/macroncomb/dieresiscomb/hungarumlautcomb/Iegrave-cy/Io-cy/Dje-cy/Gje-cy/E-cy/Dze-cy/I-cy/Yi-cy/Je-cy/Lje-cy/Nje-cy/Tshe-cy/Kje-cy/Iigrave-cy/Ushort-cy/Dzhe-cy/A-cy/Be-cy/Ve-cy/Ge-cy/De-cy/Ie-cy/Zhe-cy/Ze-cy/Ii-cy/Iishort-cy/Ka-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy/Er-cy/Es-cy/Te-cy/U-cy/Ef-cy/Ha-cy/Tse-cy/Che-cy/Sha-cy/Shcha-cy/Hardsign-cy/Yeru-cy/Softsign-cy/Ereversed-cy/Iu-cy/Ia-cy/a-cy/be-cy/ve-cy/ge-cy/de-cy/ie-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/ka-cy/el-cy/em-cy/en-cy/o-cy/pe-cy/er-cy/es-cy/te-cy/u-cy/ef-cy/ha-cy/tse-cy/che-cy/sha-cy/shcha-cy/hardsign-cy/yeru-cy/softsign-cy/ereversed-cy/iu-cy/ia-cy/iegrave-cy/io-cy/dje-cy/gje-cy/e-cy/dze-cy/i-cy/yi-cy/je-cy/lje-cy/nje-cy/tshe-cy/kje-cy/iigrave-cy/ushort-cy/dzhe-cy/Yat-cy/yat-cy/Yusbig-cy/yusbig-cy/Fita-cy/fita-cy/Izhitsa-cy/izhitsa-cy/Gheupturn-cy/gheupturn-cy/Ghestroke-cy/ghestroke-cy/Ghemiddlehook-cy/ghemiddlehook-cy/Zhedescender-cy/zhedescender-cy/Zedescender-cy/zedescender-cy/Kadescender-cy/kadescender-cy/Kaverticalstroke-cy/kaverticalstroke-cy/Kabashkir-cy/kabashkir-cy/Endescender-cy/endescender-cy/Enghe-cy/enghe-cy/Esdescender-cy/esdescender-cy/Ustrait-cy/ustrait-cy/Ustraitstroke-cy/ustraitstroke-cy/Hadescender-cy/hadescender-cy/Chedescender-cy/chedescender-cy/Cheverticalstroke-cy/cheverticalstroke-cy/Shha-cy/shha-cy/Palochka-cy/Zhebreve-cy/zhebreve-cy/Chekhakassian-cy/chekhakassian-cy/palochka-cy/Abreve-cy/abreve-cy/Adieresis-cy/adieresis-cy/Aie-cy/aie-cy/Iebreve-cy/iebreve-cy/Schwa-cy/schwa-cy/Zhedieresis-cy/zhedieresis-cy/Zedieresis-cy/zedieresis-cy/Imacron-cy/imacron-cy/Idieresis-cy/idieresis-cy/Odieresis-cy/odieresis-cy/Obarred-cy/obarred-cy/Umacron-cy/umacron-cy/Udieresis-cy/udieresis-cy/Uhungarumlaut-cy/uhungarumlaut-cy/Chedieresis-cy/chedieresis-cy/Gedescender-cy/gedescender-cy/Yerudieresis-cy/yerudieresis-cy/Qa-cy/qa-cy/We-cy/we-cy/tugrik/hryvnia/tenge/numero/brevecomb-cy/descender-cy/descender-cy.case \012\012\012/shha-cy/shha-cy/shha-cy/shha-cy/shha-cy \012hhhhh/che-cy/che-cy/che-cy/che-cy h/io-cy/shha-cy/shha-cy/shha-cy/shha-cy/shha-cy"
+"/Dje-cy/E-cy/Dze-cy/I-cy/Je-cy/Lje-cy/Nje-cy/Tshe-cy/Dzhe-cy/A-cy/Be-cy/Ve-cy/Ge-cy/De-cy/Ie-cy/Zhe-cy/Ze-cy/Ii-cy/brevecomb-cy.case/Iishort-cy/Ka-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy/Er-cy/Es-cy/Te-cy/U-cy/Ef-cy/Ha-cy/Tse-cy/Che-cy/Sha-cy/Shcha-cy/Hardsign-cy/Yeru-cy/Softsign-cy/Ereversed-cy/Iu-cy/Ia-cy/Yat-cy/Yusbig-cy/Fita-cy/Izhitsa-cy/Gheupturn-cy/Ghestroke-cy/Ghemiddlehook-cy/Zhedescender-cy/Zedescender-cy/Kadescender-cy/Kaverticalstroke-cy/Kabashkir-cy/Endescender-cy/Esdescender-cy/Ustrait-cy/Ustraitstroke-cy/Hadescender-cy/Chedescender-cy/Cheverticalstroke-cy/Shha-cy/Palochka-cy/Zhebreve-cy/Chekhakassian-cy/Abreve-cy/Adieresis-cy/Iebreve-cy/Schwa-cy/Zhedieresis-cy/Zedieresis-cy/Imacron-cy/Idieresis-cy/Odieresis-cy/Obarred-cy/Umacron-cy/Udieresis-cy/Uhungarumlaut-cy/Chedieresis-cy/Gedescender-cy/Yerudieresis-cy/Qa-cy/We-cy"
 );
 copyright = "Copyright 2015 The Amatic SC Project Authors (https://github.com/googlefonts/AmaticSC)";
 customParameters = (
@@ -111237,42 +111237,39 @@ paths = (
 {
 closed = 1;
 nodes = (
-"165 810 OFFCURVE",
-"208 859 OFFCURVE",
-"201 890 CURVE",
-"199 901 OFFCURVE",
-"190 904 OFFCURVE",
-"180 906 CURVE",
-"169 907 OFFCURVE",
-"167 900 OFFCURVE",
-"165 892 CURVE",
-"162 882 OFFCURVE",
-"160 871 OFFCURVE",
-"155 862 CURVE",
-"149 851 OFFCURVE",
-"139 837 OFFCURVE",
-"125 842 CURVE",
-"118 844 OFFCURVE",
-"113 859 OFFCURVE",
-"108 868 CURVE",
-"107 869 OFFCURVE",
-"108 872 OFFCURVE",
-"107 873 CURVE",
-"102 879 OFFCURVE",
-"97 886 OFFCURVE",
-"91 889 CURVE",
-"86 892 OFFCURVE",
-"77 890 OFFCURVE",
-"72 887 CURVE",
-"69 885 OFFCURVE",
-"68 876 OFFCURVE",
-"70 871 CURVE",
-"73 860 OFFCURVE",
-"78 848 OFFCURVE",
-"84 838 CURVE",
-"95 820 OFFCURVE",
-"112 812 OFFCURVE",
-"127 810 CURVE"
+"170 810 OFFCURVE",
+"228 859 OFFCURVE",
+"221 890 CURVE",
+"219 901 OFFCURVE",
+"210 904 OFFCURVE",
+"200 906 CURVE",
+"189 907 OFFCURVE",
+"187 900 OFFCURVE",
+"185 892 CURVE",
+"182 882 OFFCURVE",
+"180 871 OFFCURVE",
+"175 862 CURVE",
+"163 851 OFFCURVE",
+"143 837 OFFCURVE",
+"115 842 CURVE",
+"100 843 OFFCURVE",
+"103 849 OFFCURVE",
+"98 858 CURVE",
+"101 855 OFFCURVE",
+"93 872 OFFCURVE",
+"81 882 CURVE SMOOTH",
+"69 892 OFFCURVE",
+"53 900 OFFCURVE",
+"42 889 CURVE SMOOTH",
+"34 881 OFFCURVE",
+"38 866 OFFCURVE",
+"40 861 CURVE",
+"43 850 OFFCURVE",
+"51 841 OFFCURVE",
+"57 831 CURVE",
+"68 819 OFFCURVE",
+"82 811 OFFCURVE",
+"117 810 CURVE"
 );
 }
 );
@@ -111285,41 +111282,86 @@ name = _top;
 position = "{144, 758}";
 }
 );
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"180 810 OFFCURVE",
+"238 859 OFFCURVE",
+"231 890 CURVE",
+"229 901 OFFCURVE",
+"220 904 OFFCURVE",
+"210 906 CURVE",
+"199 907 OFFCURVE",
+"197 900 OFFCURVE",
+"195 892 CURVE",
+"192 882 OFFCURVE",
+"190 871 OFFCURVE",
+"185 862 CURVE",
+"173 851 OFFCURVE",
+"153 837 OFFCURVE",
+"125 842 CURVE",
+"110 843 OFFCURVE",
+"113 849 OFFCURVE",
+"108 858 CURVE",
+"111 855 OFFCURVE",
+"103 872 OFFCURVE",
+"91 882 CURVE SMOOTH",
+"79 892 OFFCURVE",
+"63 899 OFFCURVE",
+"52 889 CURVE SMOOTH",
+"43 882 OFFCURVE",
+"48 866 OFFCURVE",
+"50 861 CURVE",
+"53 850 OFFCURVE",
+"61 841 OFFCURVE",
+"67 831 CURVE",
+"78 819 OFFCURVE",
+"92 811 OFFCURVE",
+"127 810 CURVE"
+);
+}
+);
+};
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
 paths = (
 {
 closed = 1;
 nodes = (
-"157 805 OFFCURVE",
-"169 809 OFFCURVE",
-"178 816 CURVE",
-"202 835 OFFCURVE",
-"212 864 OFFCURVE",
-"221 892 CURVE",
-"225 904 OFFCURVE",
-"212 919 OFFCURVE",
-"198 923 CURVE",
-"189 925 OFFCURVE",
-"183 917 OFFCURVE",
-"177 903 CURVE",
-"172 890 OFFCURVE",
-"165 876 OFFCURVE",
-"155 865 CURVE",
-"145 854 OFFCURVE",
-"131 858 OFFCURVE",
-"125 874 CURVE",
-"123 879 OFFCURVE",
-"123 884 OFFCURVE",
-"120 889 CURVE",
-"115 899 OFFCURVE",
-"96 906 OFFCURVE",
-"84 902 CURVE",
-"71 898 OFFCURVE",
-"65 890 OFFCURVE",
-"66 876 CURVE",
-"69 830 OFFCURVE",
-"98 803 OFFCURVE",
-"146 800 CURVE"
+"187 812 OFFCURVE",
+"192 816 CURVE",
+"227 835 OFFCURVE",
+"238 864 OFFCURVE",
+"251 892 CURVE",
+"255 905 OFFCURVE",
+"241 918 OFFCURVE",
+"228 918 CURVE SMOOTH",
+"221 918 OFFCURVE",
+"215 911 OFFCURVE",
+"210 898 CURVE",
+"205 885 OFFCURVE",
+"201 865 OFFCURVE",
+"182 854 CURVE",
+"175 847 OFFCURVE",
+"162 842 OFFCURVE",
+"154 842 CURVE SMOOTH",
+"133 842 OFFCURVE",
+"99 872 OFFCURVE",
+"95 883 CURVE",
+"93 888 OFFCURVE",
+"93 893 OFFCURVE",
+"90 898 CURVE",
+"86 906 OFFCURVE",
+"73 912 OFFCURVE",
+"62 912 CURVE SMOOTH",
+"48 912 OFFCURVE",
+"35 904 OFFCURVE",
+"36 885 CURVE",
+"39 840 OFFCURVE",
+"78 809 OFFCURVE",
+"146 804 CURVE SMOOTH",
+"156 804 OFFCURVE"
 );
 }
 );
