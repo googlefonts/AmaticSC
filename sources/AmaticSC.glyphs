@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"/Eldescender-cy/EnLeftHook-cy/A-cy/Be-cy/Ve-cy/Ge-cy/Gje-cy/Gheupturn-cy/De-cy/Ie-cy/Iegrave-cy/Io-cy/Zhe-cy/Ze-cy/Ii-cy/Iishort-cy/Iigrave-cy/Iishorttail-cy/Ka-cy/Kje-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy/Er-cy/Es-cy/Te-cy/U-cy/Ushort-cy/Ef-cy/Ha-cy/Che-cy/Tse-cy/Sha-cy/Shcha-cy/Dzhe-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Lje-cy/Nje-cy/Dze-cy/E-cy/Ereversed-cy/I-cy/Yi-cy/Je-cy/Tshe-cy/Iu-cy/Ia-cy/Dje-cy/Yat-cy/Yusbig-cy/Fita-cy/Izhitsa-cy/Ghestroke-cy/Ghemiddlehook-cy/Zhedescender-cy/Zedescender-cy/Kadescender-cy/Kaverticalstroke-cy/Kastroke-cy/Kabashkir-cy/Endescender-cy/Pedescender-cy/Haabkhasian-cy/Esdescender-cy/Tedescender-cy/Ustrait-cy/Ustraitstroke-cy/Hadescender-cy/Chedescender-cy/Cheverticalstroke-cy/Shha-cy/Shhadescender-cy/Cheabkhasian-cy/Chedescenderabkhasian-cy/Palochka-cy/Zhebreve-cy/Kahook-cy/Eltail-cy/Enhook-cy/Entail-cy/Chekhakassian-cy/Emtail-cy/Abreve-cy/Adieresis-cy/Iebreve-cy/Schwa-cy/Schwadieresis-cy/Zhedieresis-cy/Zedieresis-cy/Dzeabkhasian-cy/Imacron-cy/Idieresis-cy/Odieresis-cy/Obarred-cy/Obarreddieresis-cy/Edieresis-cy/Umacron-cy/Udieresis-cy/Uhungarumlaut-cy/Chedieresis-cy/Gedescender-cy/Yerudieresis-cy/Gestrokehook-cy/Hahook-cy/Hastroke-cy/Reversedze-cy/Elhook-cy/Qa-cy/We-cy/Semisoftsign-cy/Ertick-cy/Be-cy.001/Em-cy.001/Haabkhasian-cy.001/Be-cy.002/Be-cy.003/Be-cy.004/Be-cy.005/a-cy/be-cy/ve-cy/ge-cy/gje-cy/gheupturn-cy/de-cy/ie-cy/iegrave-cy/io-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/iigrave-cy/iishorttail-cy/ka-cy/kje-cy/el-cy/em-cy/en-cy/o-cy/pe-cy/er-cy/es-cy/te-cy/u-cy/ushort-cy/ef-cy/ha-cy/che-cy/tse-cy/sha-cy/shcha-cy/dzhe-cy/softsign-cy/hardsign-cy/yeru-cy/lje-cy/nje-cy/dze-cy/e-cy/ereversed-cy/i-cy/yi-cy/je-cy/tshe-cy/iu-cy/ia-cy/dje-cy/yat-cy/yusbig-cy/fita-cy/izhitsa-cy/ghestroke-cy/ghemiddlehook-cy/zhedescender-cy/zedescender-cy/kadescender-cy/kaverticalstroke-cy/kastroke-cy/kabashkir-cy/endescender-cy/pedescender-cy/haabkhasian-cy/esdescender-cy/tedescender-cy/ustrait-cy/ustraitstroke-cy/hadescender-cy/chedescender-cy/cheverticalstroke-cy/shha-cy/shhadescender-cy/cheabkhasian-cy/chedescenderabkhasian-cy/palochka-cy/zhebreve-cy/kahook-cy/eltail-cy/enhook-cy/entail-cy/chekhakassian-cy/emtail-cy/abreve-cy/adieresis-cy/iebreve-cy/schwa-cy/schwadieresis-cy/zhedieresis-cy/zedieresis-cy/dzeabkhasian-cy/imacron-cy/idieresis-cy/odieresis-cy/obarred-cy/obarreddieresis-cy/edieresis-cy/umacron-cy/udieresis-cy/uhungarumlaut-cy/chedieresis-cy/gedescender-cy/yerudieresis-cy/gestrokehook-cy/hahook-cy/hastroke-cy/reversedze-cy/elhook-cy/qa-cy/we-cy/semisoftsign-cy/ertick-cy/eldescender-cy/enlefthook-cy/Enghe-cy/enghe-cy/Tetse-cy/tetse-cy/Aie-cy/aie-cy \012\012"
+);
 copyright = "Copyright 2015 The Amatic SC Project Authors (https://github.com/googlefonts/AmaticSC)";
 customParameters = (
 {
@@ -32,7 +35,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2017-10-21 08:34:17 +0000";
+date = "2017-11-08 13:04:38 +0000";
 designer = "Multiple Designers";
 designerURL = "http://www.sansoxygen.com";
 disablesNiceNames = 1;
@@ -73930,6 +73933,7 @@ nodes = (
 width = 398;
 }
 );
+leftMetricsKey = "el-cy";
 unicode = 0513;
 },
 {
@@ -115507,5 +115511,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 2;
-versionMinor = 500;
+versionMinor = 600;
 }
