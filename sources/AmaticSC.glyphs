@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-"Highest:\012/Abrevehookabove/Ecircumflextilde/Ocircumflextilde/Abreveacute/Aringacute/Acircumflextilde/Abrevegrave/abrevehookabove/Abrevetilde/aringacute/Ecircumflexhookabove/Ocircumflexhookabove/Acircumflexhookabove/Ecircumflexacute/Ocircumflexacute/abreveacute/Ecircumflexgrave/Ocircumflexgrave/Acircumflexacute/Scaron \012Lowest:\012/eng/nhookleft/Gcommaaccent/Kcommaaccent/Lcommaaccent/Ncommaaccent/Rcommaaccent/Scommaaccent/Tcommaaccent/kcommaaccent/lcommaaccent/ncommaaccent/rcommaaccent/scommaaccent/tcommaaccent/commaaccentcomb/commaaccentcomb.case \U00C7/Ecedilla/Scedilla"
-);
 classes = (
 {
 automatic = 1;
