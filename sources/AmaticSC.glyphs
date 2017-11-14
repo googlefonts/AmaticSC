@@ -1,9 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-"N/commaturnedabovecomb N/commaaccentcomb N/commaturnedmod N /dagger 2017/daggerdbl \012N/commaturnedabovecomb N/commaaccentcomb N/commaturnedmod N /dagger 2017/daggerdbl \012",
-"/dagger 2017/daggerdbl \012/dagger 2017/daggerdbl"
-);
 classes = (
 {
 automatic = 1;
