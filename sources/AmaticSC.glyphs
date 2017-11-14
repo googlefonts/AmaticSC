@@ -1,7 +1,8 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"/Eldescender-cy/EnLeftHook-cy/A-cy/Be-cy/Ve-cy/Ge-cy/Gje-cy/Gheupturn-cy/De-cy/Ie-cy/Iegrave-cy/Io-cy/Zhe-cy/Ze-cy/Ii-cy/Iishort-cy/Iigrave-cy/Iishorttail-cy/Ka-cy/Kje-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy/Er-cy/Es-cy/Te-cy/U-cy/Ushort-cy/Ef-cy/Ha-cy/Che-cy/Tse-cy/Sha-cy/Shcha-cy/Dzhe-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Lje-cy/Nje-cy/Dze-cy/E-cy/Ereversed-cy/I-cy/Yi-cy/Je-cy/Tshe-cy/Iu-cy/Ia-cy/Dje-cy/Yat-cy/Yusbig-cy/Fita-cy/Izhitsa-cy/Ghestroke-cy/Ghemiddlehook-cy/Zhedescender-cy/Zedescender-cy/Kadescender-cy/Kaverticalstroke-cy/Kastroke-cy/Kabashkir-cy/Endescender-cy/Pedescender-cy/Haabkhasian-cy/Esdescender-cy/Tedescender-cy/Ustrait-cy/Ustraitstroke-cy/Hadescender-cy/Chedescender-cy/Cheverticalstroke-cy/Shha-cy/Shhadescender-cy/Cheabkhasian-cy/Chedescenderabkhasian-cy/Palochka-cy/Zhebreve-cy/Kahook-cy/Eltail-cy/Enhook-cy/Entail-cy/Chekhakassian-cy/Emtail-cy/Abreve-cy/Adieresis-cy/Iebreve-cy/Schwa-cy/Schwadieresis-cy/Zhedieresis-cy/Zedieresis-cy/Dzeabkhasian-cy/Imacron-cy/Idieresis-cy/Odieresis-cy/Obarred-cy/Obarreddieresis-cy/Edieresis-cy/Umacron-cy/Udieresis-cy/Uhungarumlaut-cy/Chedieresis-cy/Gedescender-cy/Yerudieresis-cy/Gestrokehook-cy/Hahook-cy/Hastroke-cy/Reversedze-cy/Elhook-cy/Qa-cy/We-cy/Semisoftsign-cy/Ertick-cy/a-cy/be-cy/ve-cy/ge-cy/gje-cy/gheupturn-cy/de-cy/ie-cy/iegrave-cy/io-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/iigrave-cy/iishorttail-cy/ka-cy/kje-cy/el-cy/em-cy/en-cy/o-cy/pe-cy/er-cy/es-cy/te-cy/u-cy/ushort-cy/ef-cy/ha-cy/che-cy/tse-cy/sha-cy/shcha-cy/dzhe-cy/softsign-cy/hardsign-cy/yeru-cy/lje-cy/nje-cy/dze-cy/e-cy/ereversed-cy/i-cy/yi-cy/je-cy/tshe-cy/iu-cy/ia-cy/dje-cy/yat-cy/yusbig-cy/fita-cy/izhitsa-cy/ghestroke-cy/ghemiddlehook-cy/zhedescender-cy/zedescender-cy/kadescender-cy/kaverticalstroke-cy/kastroke-cy/kabashkir-cy/endescender-cy/pedescender-cy/haabkhasian-cy/esdescender-cy/tedescender-cy/ustrait-cy/ustraitstroke-cy/hadescender-cy/chedescender-cy/cheverticalstroke-cy/shha-cy/shhadescender-cy/cheabkhasian-cy/chedescenderabkhasian-cy/palochka-cy/zhebreve-cy/kahook-cy/eltail-cy/enhook-cy/entail-cy/chekhakassian-cy/emtail-cy/abreve-cy/adieresis-cy/iebreve-cy/schwa-cy/schwadieresis-cy/zhedieresis-cy/zedieresis-cy/dzeabkhasian-cy/imacron-cy/idieresis-cy/odieresis-cy/obarred-cy/obarreddieresis-cy/edieresis-cy/umacron-cy/udieresis-cy/uhungarumlaut-cy/chedieresis-cy/gedescender-cy/yerudieresis-cy/gestrokehook-cy/hahook-cy/hastroke-cy/reversedze-cy/elhook-cy/qa-cy/we-cy/semisoftsign-cy/ertick-cy/eldescender-cy/enlefthook-cy/Enghe-cy/enghe-cy/Tetse-cy/tetse-cy/Aie-cy/aie-cy"
+"/Eldescender-cy/EnLeftHook-cy/A-cy/Be-cy/Ve-cy/Ge-cy/Gje-cy/Gheupturn-cy/De-cy/Ie-cy/Iegrave-cy/Io-cy/Zhe-cy/Ze-cy/Ii-cy/Iishort-cy/Iigrave-cy/Iishorttail-cy/Ka-cy/Kje-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy/Er-cy/Es-cy/Te-cy/U-cy/Ushort-cy/Ef-cy/Ha-cy/Che-cy/Tse-cy/Sha-cy/Shcha-cy/Dzhe-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Lje-cy/Nje-cy/Dze-cy/E-cy/Ereversed-cy/I-cy/Yi-cy/Je-cy/Tshe-cy/Iu-cy/Ia-cy/Dje-cy/Yat-cy/Yusbig-cy/Fita-cy/Izhitsa-cy/Ghestroke-cy/Ghemiddlehook-cy/Zhedescender-cy/Zedescender-cy/Kadescender-cy/Kaverticalstroke-cy/Kastroke-cy/Kabashkir-cy/Endescender-cy/Pedescender-cy/Haabkhasian-cy/Esdescender-cy/Tedescender-cy/Ustrait-cy/Ustraitstroke-cy/Hadescender-cy/Chedescender-cy/Cheverticalstroke-cy/Shha-cy/Shhadescender-cy/Cheabkhasian-cy/Chedescenderabkhasian-cy/Palochka-cy/Zhebreve-cy/Kahook-cy/Eltail-cy/Enhook-cy/Entail-cy/Chekhakassian-cy/Emtail-cy/Abreve-cy/Adieresis-cy/Iebreve-cy/Schwa-cy/Schwadieresis-cy/Zhedieresis-cy/Zedieresis-cy/Dzeabkhasian-cy/Imacron-cy/Idieresis-cy/Odieresis-cy/Obarred-cy/Obarreddieresis-cy/Edieresis-cy/Umacron-cy/Udieresis-cy/Uhungarumlaut-cy/Chedieresis-cy/Gedescender-cy/Yerudieresis-cy/Gestrokehook-cy/Hahook-cy/Hastroke-cy/Reversedze-cy/Elhook-cy/Qa-cy/We-cy/Semisoftsign-cy/Ertick-cy/a-cy/be-cy/ve-cy/ge-cy/gje-cy/gheupturn-cy/de-cy/ie-cy/iegrave-cy/io-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/iigrave-cy/iishorttail-cy/ka-cy/kje-cy/el-cy/em-cy/en-cy/o-cy/pe-cy/er-cy/es-cy/te-cy/u-cy/ushort-cy/ef-cy/ha-cy/che-cy/tse-cy/sha-cy/shcha-cy/dzhe-cy/softsign-cy/hardsign-cy/yeru-cy/lje-cy/nje-cy/dze-cy/e-cy/ereversed-cy/i-cy/yi-cy/je-cy/tshe-cy/iu-cy/ia-cy/dje-cy/yat-cy/yusbig-cy/fita-cy/izhitsa-cy/ghestroke-cy/ghemiddlehook-cy/zhedescender-cy/zedescender-cy/kadescender-cy/kaverticalstroke-cy/kastroke-cy/kabashkir-cy/endescender-cy/pedescender-cy/haabkhasian-cy/esdescender-cy/tedescender-cy/ustrait-cy/ustraitstroke-cy/hadescender-cy/chedescender-cy/cheverticalstroke-cy/shha-cy/shhadescender-cy/cheabkhasian-cy/chedescenderabkhasian-cy/palochka-cy/zhebreve-cy/kahook-cy/eltail-cy/enhook-cy/entail-cy/chekhakassian-cy/emtail-cy/abreve-cy/adieresis-cy/iebreve-cy/schwa-cy/schwadieresis-cy/zhedieresis-cy/zedieresis-cy/dzeabkhasian-cy/imacron-cy/idieresis-cy/odieresis-cy/obarred-cy/obarreddieresis-cy/edieresis-cy/umacron-cy/udieresis-cy/uhungarumlaut-cy/chedieresis-cy/gedescender-cy/yerudieresis-cy/gestrokehook-cy/hahook-cy/hastroke-cy/reversedze-cy/elhook-cy/qa-cy/we-cy/semisoftsign-cy/ertick-cy/eldescender-cy/enlefthook-cy/Enghe-cy/enghe-cy/Tetse-cy/tetse-cy/Aie-cy/aie-cy",
+"/Zhe-cy/Zhe-cy/Zhe-cy/Zhe-cy/Zhe-cy/Zhe-cy \012HXHXHXHXHX\012/zhe-cy/zhe-cy/zhe-cy/zhe-cy/zhe-cy/zhe-cy/zhe-cy/zhe-cy/zhe-cy/zhe-cy \012hhohohohohhxhxhx"
 );
 copyright = "Copyright 2015 The Amatic SC Project Authors (https://github.com/googlefonts/AmaticSC)";
 customParameters = (
@@ -176,8 +177,8 @@ value = 0;
 descender = -247;
 id = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
 userData = {
-GSOffsetHorizontal = 4;
-GSOffsetVertical = 4;
+GSOffsetHorizontal = -2;
+GSOffsetVertical = -2;
 GSRoughenHorizontal = 5;
 GSRoughenSegmentLength = 35;
 GSRoughenVertical = 5;
@@ -35166,7 +35167,6 @@ note = ordmasculine;
 unicode = 00BA;
 },
 {
-color = 4;
 glyphname = "Eldescender-cy";
 layers = (
 {
@@ -35199,7 +35199,6 @@ width = 402;
 unicode = 052E;
 },
 {
-color = 1;
 glyphname = "EnLeftHook-cy";
 layers = (
 {
@@ -35434,7 +35433,6 @@ width = 350;
 unicode = 0410;
 },
 {
-color = 1;
 glyphname = "Be-cy";
 layers = (
 {
@@ -35852,7 +35850,6 @@ width = 314;
 unicode = 0412;
 },
 {
-color = 4;
 glyphname = "Ge-cy";
 layers = (
 {
@@ -36500,7 +36497,6 @@ width = 265;
 unicode = 0403;
 },
 {
-color = 4;
 glyphname = "Gheupturn-cy";
 layers = (
 {
@@ -36665,7 +36661,6 @@ rightMetricsKey = F;
 unicode = 0490;
 },
 {
-color = 1;
 glyphname = "De-cy";
 layers = (
 {
@@ -37748,7 +37743,6 @@ width = 278;
 unicode = 0401;
 },
 {
-color = 1;
 glyphname = "Zhe-cy";
 layers = (
 {
@@ -37767,223 +37761,223 @@ paths = (
 {
 closed = 1;
 nodes = (
-"264 2 OFFCURVE",
-"268 10 OFFCURVE",
-"267 26 CURVE",
-"265 51 OFFCURVE",
-"263 76 OFFCURVE",
-"263 101 CURVE",
-"262 161 OFFCURVE",
-"261 222 OFFCURVE",
-"261 282 CURVE",
-"261 310 OFFCURVE",
-"263 338 OFFCURVE",
-"264 365 CURVE",
-"274 367 OFFCURVE",
-"282 367 OFFCURVE",
-"288 370 CURVE",
-"302 377 OFFCURVE",
-"310 370 OFFCURVE",
-"315 359 CURVE",
-"321 345 OFFCURVE",
-"326 331 OFFCURVE",
-"328 316 CURVE",
-"334 248 OFFCURVE",
-"341 111 OFFCURVE",
-"347 87 CURVE",
-"353 65 OFFCURVE",
-"362 44 OFFCURVE",
-"373 25 CURVE",
-"381 11 OFFCURVE",
-"396 -1 OFFCURVE",
-"415 3 CURVE",
-"445 9 OFFCURVE",
-"455 39 OFFCURVE",
-"456 52 CURVE",
-"459 73 OFFCURVE",
-"462 93 OFFCURVE",
-"464 114 CURVE",
-"465 132 OFFCURVE",
-"457 141 OFFCURVE",
-"436 146 CURVE",
-"426 112 OFFCURVE",
-"433 75 OFFCURVE",
-"415 38 CURVE",
-"406 49 OFFCURVE",
-"395 55 OFFCURVE",
-"392 65 CURVE",
-"385 82 OFFCURVE",
-"380 101 OFFCURVE",
-"377 120 CURVE",
-"381 95 OFFCURVE",
-"364 272 OFFCURVE",
-"359 315 CURVE",
-"356 339 OFFCURVE",
-"354 365 OFFCURVE",
-"334 383 CURVE",
-"323 393 OFFCURVE",
+"263 4 OFFCURVE",
+"266 11 OFFCURVE",
+"265 26 CURVE SMOOTH",
+"263 51 OFFCURVE",
+"261 76 OFFCURVE",
+"261 101 CURVE",
+"260 161 OFFCURVE",
+"259 222 OFFCURVE",
+"259 282 CURVE SMOOTH",
+"259 308 OFFCURVE",
+"261 340 OFFCURVE",
+"262 367 CURVE",
+"267 373 OFFCURVE",
+"273 380 OFFCURVE",
+"279 381 CURVE SMOOTH",
+"292 384 OFFCURVE",
+"310 374 OFFCURVE",
+"317 360 CURVE",
+"323 346 OFFCURVE",
+"328 331 OFFCURVE",
+"330 316 CURVE",
+"336 248 OFFCURVE",
+"343 111 OFFCURVE",
+"349 87 CURVE",
+"355 67 OFFCURVE",
+"363 46 OFFCURVE",
+"375 26 CURVE",
+"384 9 OFFCURVE",
+"400 2 OFFCURVE",
+"415 5 CURVE SMOOTH",
+"443 11 OFFCURVE",
+"453 39 OFFCURVE",
+"454 52 CURVE",
+"457 73 OFFCURVE",
+"460 93 OFFCURVE",
+"462 114 CURVE",
+"463 131 OFFCURVE",
+"453 143 OFFCURVE",
+"436 144 CURVE",
+"430 119 OFFCURVE",
+"435 75 OFFCURVE",
+"417 37 CURVE",
+"413 37 LINE",
+"399 44 OFFCURVE",
+"393 54 OFFCURVE",
+"390 64 CURVE",
+"383 82 OFFCURVE",
+"378 100 OFFCURVE",
+"375 122 CURVE SMOOTH",
+"361 211 OFFCURVE",
+"368 222 OFFCURVE",
+"357 315 CURVE SMOOTH",
+"354 339 OFFCURVE",
+"352 364 OFFCURVE",
+"333 382 CURVE",
+"317 395 OFFCURVE",
 "309 402 OFFCURVE",
-"294 413 CURVE",
-"298 424 OFFCURVE",
-"301 436 OFFCURVE",
-"306 448 CURVE",
-"333 508 OFFCURVE",
-"359 569 OFFCURVE",
-"387 629 CURVE",
-"397 652 OFFCURVE",
-"412 673 OFFCURVE",
-"425 694 CURVE",
-"428 698 OFFCURVE",
-"433 699 OFFCURVE",
-"441 705 CURVE",
-"432 668 OFFCURVE",
-"424 634 OFFCURVE",
-"412 606 CURVE",
-"408 598 OFFCURVE",
-"403 589 OFFCURVE",
-"410 582 CURVE",
-"416 577 OFFCURVE",
-"425 575 OFFCURVE",
-"432 575 CURVE",
-"442 576 OFFCURVE",
-"443 586 OFFCURVE",
-"445 595 CURVE",
-"445 602 OFFCURVE",
-"465 674 OFFCURVE",
-"473 704 CURVE",
-"476 718 OFFCURVE",
-"472 732 OFFCURVE",
-"461 739 CURVE",
-"441 752 OFFCURVE",
-"418 732 OFFCURVE",
-"411 723 CURVE",
-"399 707 OFFCURVE",
-"385 690 OFFCURVE",
-"376 672 CURVE",
-"353 624 OFFCURVE",
-"332 575 OFFCURVE",
-"310 526 CURVE",
-"308 521 OFFCURVE",
-"265 420 OFFCURVE",
-"266 420 CURVE",
-"266 435 OFFCURVE",
-"270 529 OFFCURVE",
-"272 572 CURVE",
-"275 625 OFFCURVE",
-"278 678 OFFCURVE",
-"281 732 CURVE",
-"282 748 OFFCURVE",
-"278 754 OFFCURVE",
-"261 756 CURVE",
-"254 756 OFFCURVE",
-"246 755 OFFCURVE",
-"240 755 CURVE",
-"240 736 OFFCURVE",
-"241 719 OFFCURVE",
-"240 703 CURVE",
-"239 664 OFFCURVE",
-"237 626 OFFCURVE",
-"236 588 CURVE",
-"235 526 OFFCURVE",
-"236 464 OFFCURVE",
-"235 401 CURVE",
-"235 396 OFFCURVE",
-"233 391 OFFCURVE",
-"231 380 CURVE",
-"226 389 OFFCURVE",
-"224 392 OFFCURVE",
-"223 396 CURVE",
-"214 433 OFFCURVE",
-"205 469 OFFCURVE",
-"198 506 CURVE",
-"188 562 OFFCURVE",
-"180 618 OFFCURVE",
-"171 674 CURVE",
-"168 694 OFFCURVE",
-"161 714 OFFCURVE",
-"147 728 CURVE",
-"122 753 OFFCURVE",
-"92 755 OFFCURVE",
-"78 717 CURVE",
-"65 683 OFFCURVE",
-"70 648 OFFCURVE",
-"71 613 CURVE",
-"72 601 OFFCURVE",
-"89 591 OFFCURVE",
-"101 594 CURVE",
-"118 599 OFFCURVE",
-"111 610 OFFCURVE",
-"110 622 CURVE",
-"108 643 OFFCURVE",
-"108 665 OFFCURVE",
-"109 686 CURVE",
-"110 695 OFFCURVE",
-"111 706 OFFCURVE",
-"122 711 CURVE",
-"140 687 OFFCURVE",
-"144 659 OFFCURVE",
-"148 632 CURVE",
-"165 542 OFFCURVE",
-"180 452 OFFCURVE",
-"196 361 CURVE",
-"177 332 OFFCURVE",
-"159 302 OFFCURVE",
-"152 265 CURVE",
-"145 224 OFFCURVE",
-"138 183 OFFCURVE",
-"131 142 CURVE",
-"126 118 OFFCURVE",
-"121 94 OFFCURVE",
-"116 70 CURVE",
-"114 60 OFFCURVE",
-"111 47 OFFCURVE",
-"98 48 CURVE",
-"85 48 OFFCURVE",
-"82 62 OFFCURVE",
-"81 71 CURVE",
-"78 90 OFFCURVE",
-"77 110 OFFCURVE",
-"79 129 CURVE",
-"81 157 OFFCURVE",
-"75 163 OFFCURVE",
-"47 153 CURVE",
-"47 122 OFFCURVE",
-"46 92 OFFCURVE",
-"48 61 CURVE",
-"48 51 OFFCURVE",
-"53 41 OFFCURVE",
-"59 32 CURVE",
-"78 6 OFFCURVE",
-"112 4 OFFCURVE",
-"132 30 CURVE",
-"139 37 OFFCURVE",
-"144 47 OFFCURVE",
-"146 57 CURVE",
-"152 85 OFFCURVE",
-"157 114 OFFCURVE",
-"161 142 CURVE",
-"168 192 OFFCURVE",
-"173 241 OFFCURVE",
-"192 288 CURVE",
-"201 312 OFFCURVE",
-"213 334 OFFCURVE",
-"231 354 CURVE",
-"234 350 OFFCURVE",
-"234 347 OFFCURVE",
-"234 344 CURVE",
-"234 314 OFFCURVE",
-"233 284 OFFCURVE",
-"234 254 CURVE",
-"236 136 OFFCURVE",
-"224 28 OFFCURVE",
-"225 19 CURVE",
-"228 7 OFFCURVE",
-"239 -1 OFFCURVE",
-"253 0 CURVE"
+"290 412 CURVE",
+"296 425 OFFCURVE",
+"299 437 OFFCURVE",
+"304 449 CURVE SMOOTH",
+"331 509 OFFCURVE",
+"357 570 OFFCURVE",
+"385 630 CURVE SMOOTH",
+"395 653 OFFCURVE",
+"410 674 OFFCURVE",
+"423 695 CURVE",
+"427 700 OFFCURVE",
+"432 705 OFFCURVE",
+"440 707 CURVE",
+"443 705 LINE",
+"434 668 OFFCURVE",
+"426 633 OFFCURVE",
+"414 605 CURVE",
+"410 597 OFFCURVE",
+"405 589 OFFCURVE",
+"411 583 CURVE",
+"416 580 OFFCURVE",
+"423 577 OFFCURVE",
+"432 577 CURVE",
+"440 578 OFFCURVE",
+"441 586 OFFCURVE",
+"443 595 CURVE",
+"443 602 OFFCURVE",
+"463 674 OFFCURVE",
+"471 705 CURVE SMOOTH",
+"475 724 OFFCURVE",
+"464 741 OFFCURVE",
+"446 741 CURVE SMOOTH",
+"431 741 OFFCURVE",
+"418 729 OFFCURVE",
+"413 722 CURVE",
+"401 706 OFFCURVE",
+"387 689 OFFCURVE",
+"378 671 CURVE SMOOTH",
+"355 623 OFFCURVE",
+"334 574 OFFCURVE",
+"312 525 CURVE SMOOTH",
+"263 405 LINE",
+"263 420 OFFCURVE",
+"268 529 OFFCURVE",
+"270 572 CURVE SMOOTH",
+"279 732 LINE SMOOTH",
+"280 747 OFFCURVE",
+"276 752 OFFCURVE",
+"261 754 CURVE",
+"255 754 OFFCURVE",
+"248 753 OFFCURVE",
+"242 753 CURVE",
+"242 735 OFFCURVE",
+"243 718 OFFCURVE",
+"242 703 CURVE",
+"241 664 OFFCURVE",
+"239 626 OFFCURVE",
+"238 588 CURVE SMOOTH",
+"237 526 OFFCURVE",
+"238 464 OFFCURVE",
+"237 401 CURVE SMOOTH",
+"237 396 OFFCURVE",
+"235 391 OFFCURVE",
+"233 380 CURVE",
+"229 379 LINE",
+"224 388 OFFCURVE",
+"222 391 OFFCURVE",
+"221 396 CURVE",
+"212 433 OFFCURVE",
+"203 469 OFFCURVE",
+"196 506 CURVE SMOOTH",
+"186 562 OFFCURVE",
+"178 618 OFFCURVE",
+"169 674 CURVE SMOOTH",
+"166 694 OFFCURVE",
+"159 713 OFFCURVE",
+"146 727 CURVE",
+"134 738 OFFCURVE",
+"122 744 OFFCURVE",
+"112 744 CURVE SMOOTH",
+"98 744 OFFCURVE",
+"87 735 OFFCURVE",
+"80 716 CURVE",
+"67 683 OFFCURVE",
+"72 648 OFFCURVE",
+"73 613 CURVE",
+"74 603 OFFCURVE",
+"90 593 OFFCURVE",
+"101 596 CURVE SMOOTH",
+"116 600 OFFCURVE",
+"109 609 OFFCURVE",
+"108 622 CURVE SMOOTH",
+"106 641 OFFCURVE",
+"106 663 OFFCURVE",
+"107 686 CURVE",
+"108 695 OFFCURVE",
+"109 707 OFFCURVE",
+"121 713 CURVE",
+"137 694 OFFCURVE",
+"142 683 OFFCURVE",
+"150 632 CURVE",
+"167 542 OFFCURVE",
+"182 452 OFFCURVE",
+"198 360 CURVE",
+"179 331 OFFCURVE",
+"161 301 OFFCURVE",
+"154 265 CURVE SMOOTH",
+"147 224 OFFCURVE",
+"140 183 OFFCURVE",
+"133 142 CURVE",
+"118 70 LINE SMOOTH",
+"116 60 OFFCURVE",
+"113 45 OFFCURVE",
+"98 46 CURVE",
+"87 46 OFFCURVE",
+"81 54 OFFCURVE",
+"79 71 CURVE",
+"76 90 OFFCURVE",
+"75 111 OFFCURVE",
+"77 129 CURVE",
+"79 156 OFFCURVE",
+"74 161 OFFCURVE",
+"49 151 CURVE",
+"49 121 OFFCURVE",
+"48 91 OFFCURVE",
+"50 61 CURVE",
+"50 51 OFFCURVE",
+"55 42 OFFCURVE",
+"61 33 CURVE",
+"79 8 OFFCURVE",
+"111 7 OFFCURVE",
+"130 31 CURVE",
+"137 38 OFFCURVE",
+"142 47 OFFCURVE",
+"144 57 CURVE SMOOTH",
+"150 85 OFFCURVE",
+"155 114 OFFCURVE",
+"159 142 CURVE SMOOTH",
+"166 192 OFFCURVE",
+"171 241 OFFCURVE",
+"190 289 CURVE SMOOTH",
+"199 313 OFFCURVE",
+"211 335 OFFCURVE",
+"230 355 CURVE",
+"233 353 OFFCURVE",
+"236 356 OFFCURVE",
+"236 344 CURVE SMOOTH",
+"236 314 OFFCURVE",
+"235 284 OFFCURVE",
+"236 254 CURVE SMOOTH",
+"238 136 OFFCURVE",
+"226 28 OFFCURVE",
+"227 19 CURVE",
+"230 8 OFFCURVE",
+"241 1 OFFCURVE",
+"253 2 CURVE"
 );
 }
 );
-width = 481;
+width = 479;
 },
 {
 anchors = (
@@ -38724,7 +38718,6 @@ rightMetricsKey = K;
 unicode = 0416;
 },
 {
-color = 1;
 glyphname = "Ze-cy";
 layers = (
 {
@@ -39268,7 +39261,6 @@ rightMetricsKey = B;
 unicode = 0417;
 },
 {
-color = 4;
 glyphname = "Ii-cy";
 layers = (
 {
@@ -39927,7 +39919,6 @@ width = 417;
 unicode = 040D;
 },
 {
-color = 4;
 glyphname = "Iishorttail-cy";
 layers = (
 {
@@ -39968,7 +39959,6 @@ width = 417;
 unicode = 048A;
 },
 {
-color = 4;
 glyphname = "Ka-cy";
 layers = (
 {
@@ -40608,7 +40598,6 @@ width = 335;
 unicode = 040C;
 },
 {
-color = 1;
 glyphname = "El-cy";
 layers = (
 {
@@ -41827,7 +41816,6 @@ width = 304;
 unicode = 0425;
 },
 {
-color = 1;
 glyphname = "Che-cy";
 layers = (
 {
@@ -42815,7 +42803,6 @@ rightMetricsKey = "De-cy";
 unicode = 0429;
 },
 {
-color = 3;
 glyphname = "Dzhe-cy";
 layers = (
 {
@@ -43117,7 +43104,6 @@ rightMetricsKey = H;
 unicode = 040F;
 },
 {
-color = 1;
 glyphname = "Softsign-cy";
 layers = (
 {
@@ -43355,7 +43341,6 @@ leftMetricsKey = H;
 unicode = 042C;
 },
 {
-color = 1;
 glyphname = "Hardsign-cy";
 layers = (
 {
@@ -43841,7 +43826,6 @@ rightMetricsKey = h;
 unicode = 042B;
 },
 {
-color = 3;
 glyphname = "Lje-cy";
 layers = (
 {
@@ -44179,7 +44163,6 @@ rightMetricsKey = "Softsign-cy";
 unicode = 0409;
 },
 {
-color = 3;
 glyphname = "Nje-cy";
 layers = (
 {
@@ -44494,7 +44477,6 @@ width = 307;
 unicode = 0405;
 },
 {
-color = 3;
 glyphname = "E-cy";
 layers = (
 {
@@ -44683,7 +44665,6 @@ rightMetricsKey = O;
 unicode = 0404;
 },
 {
-color = 1;
 glyphname = "Ereversed-cy";
 layers = (
 {
@@ -44952,7 +44933,6 @@ width = 268;
 unicode = 0408;
 },
 {
-color = 1;
 glyphname = "Tshe-cy";
 layers = (
 {
@@ -45223,7 +45203,6 @@ leftMetricsKey = T;
 unicode = 040B;
 },
 {
-color = 4;
 glyphname = "Iu-cy";
 layers = (
 {
@@ -46283,7 +46262,6 @@ rightMetricsKey = O;
 unicode = 042E;
 },
 {
-color = 1;
 glyphname = "Ia-cy";
 layers = (
 {
@@ -46528,7 +46506,6 @@ rightMetricsKey = h;
 unicode = 042F;
 },
 {
-color = 1;
 glyphname = "Dje-cy";
 layers = (
 {
@@ -46796,7 +46773,6 @@ leftMetricsKey = T;
 unicode = 0402;
 },
 {
-color = 3;
 glyphname = "Yat-cy";
 layers = (
 {
@@ -47149,7 +47125,6 @@ rightMetricsKey = "Softsign-cy";
 unicode = 0462;
 },
 {
-color = 1;
 glyphname = "Yusbig-cy";
 layers = (
 {
@@ -47507,7 +47482,6 @@ width = 475;
 unicode = 046A;
 },
 {
-color = 1;
 glyphname = "Fita-cy";
 layers = (
 {
@@ -47542,7 +47516,6 @@ width = 470;
 unicode = 0472;
 },
 {
-color = 1;
 glyphname = "Izhitsa-cy";
 layers = (
 {
@@ -48064,7 +48037,6 @@ rightMetricsKey = "=V-50";
 unicode = 0474;
 },
 {
-color = 4;
 glyphname = "Ghestroke-cy";
 layers = (
 {
@@ -48109,7 +48081,6 @@ width = 265;
 unicode = 0492;
 },
 {
-color = 1;
 glyphname = "Ghemiddlehook-cy";
 layers = (
 {
@@ -48436,7 +48407,6 @@ leftMetricsKey = H;
 unicode = 0494;
 },
 {
-color = 4;
 glyphname = "Zhedescender-cy";
 layers = (
 {
@@ -49264,7 +49234,6 @@ rightMetricsKey = "De-cy";
 unicode = 0496;
 },
 {
-color = 1;
 glyphname = "Zedescender-cy";
 layers = (
 {
@@ -49406,7 +49375,6 @@ width = 421;
 unicode = 0498;
 },
 {
-color = 4;
 glyphname = "Kadescender-cy";
 layers = (
 {
@@ -50051,7 +50019,6 @@ rightMetricsKey = "De-cy";
 unicode = 049A;
 },
 {
-color = 4;
 glyphname = "Kaverticalstroke-cy";
 layers = (
 {
@@ -50429,7 +50396,6 @@ rightMetricsKey = K;
 unicode = 049C;
 },
 {
-color = 1;
 glyphname = "Kastroke-cy";
 layers = (
 {
@@ -50771,7 +50737,6 @@ rightMetricsKey = "Ka-cy";
 unicode = 049E;
 },
 {
-color = 4;
 glyphname = "Kabashkir-cy";
 layers = (
 {
@@ -50900,7 +50865,6 @@ rightMetricsKey = "Ka-cy";
 unicode = 04A0;
 },
 {
-color = 4;
 glyphname = "Endescender-cy";
 layers = (
 {
@@ -50933,7 +50897,6 @@ width = 330;
 unicode = 04A2;
 },
 {
-color = 4;
 glyphname = "Pedescender-cy";
 layers = (
 {
@@ -50966,7 +50929,6 @@ width = 341;
 unicode = 0524;
 },
 {
-color = 1;
 glyphname = "Haabkhasian-cy";
 layers = (
 {
@@ -51407,7 +51369,6 @@ rightMetricsKey = "=O-30";
 unicode = 04A8;
 },
 {
-color = 1;
 glyphname = "Esdescender-cy";
 layers = (
 {
@@ -51490,7 +51451,6 @@ width = 357;
 unicode = 04AA;
 },
 {
-color = 4;
 glyphname = "Tedescender-cy";
 layers = (
 {
@@ -51523,7 +51483,6 @@ width = 262;
 unicode = 04AC;
 },
 {
-color = 4;
 glyphname = "Ustrait-cy";
 layers = (
 {
@@ -51560,7 +51519,6 @@ width = 265;
 unicode = 04AE;
 },
 {
-color = 1;
 glyphname = "Ustraitstroke-cy";
 layers = (
 {
@@ -51637,7 +51595,6 @@ width = 341;
 unicode = 04B0;
 },
 {
-color = 4;
 glyphname = "Hadescender-cy";
 layers = (
 {
@@ -51670,7 +51627,6 @@ width = 304;
 unicode = 04B2;
 },
 {
-color = 4;
 glyphname = "Chedescender-cy";
 layers = (
 {
@@ -51703,7 +51659,6 @@ width = 339;
 unicode = 04B6;
 },
 {
-color = 1;
 glyphname = "Cheverticalstroke-cy";
 layers = (
 {
@@ -52017,7 +51972,6 @@ rightMetricsKey = H;
 unicode = 04B8;
 },
 {
-color = 1;
 glyphname = "Shha-cy";
 layers = (
 {
@@ -52248,7 +52202,6 @@ leftMetricsKey = H;
 unicode = 04BA;
 },
 {
-color = 4;
 glyphname = "Shhadescender-cy";
 layers = (
 {
@@ -52328,7 +52281,6 @@ rightMetricsKey = "Tse-cy";
 unicode = 0526;
 },
 {
-color = 1;
 glyphname = "Cheabkhasian-cy";
 layers = (
 {
@@ -52613,7 +52565,6 @@ rightMetricsKey = O;
 unicode = 04BC;
 },
 {
-color = 1;
 glyphname = "Chedescenderabkhasian-cy";
 layers = (
 {
@@ -52697,7 +52648,6 @@ width = 432;
 unicode = 04BE;
 },
 {
-color = 4;
 glyphname = "Palochka-cy";
 layers = (
 {
@@ -52754,7 +52704,6 @@ width = 559;
 unicode = 04C1;
 },
 {
-color = 1;
 glyphname = "Kahook-cy";
 layers = (
 {
@@ -53002,7 +52951,6 @@ rightMetricsKey = "Ka-cy";
 unicode = 04C3;
 },
 {
-color = 4;
 glyphname = "Eltail-cy";
 layers = (
 {
@@ -53035,7 +52983,6 @@ width = 402;
 unicode = 04C5;
 },
 {
-color = 4;
 glyphname = "Enhook-cy";
 layers = (
 {
@@ -53068,7 +53015,6 @@ width = 330;
 unicode = 04C7;
 },
 {
-color = 4;
 glyphname = "Entail-cy";
 layers = (
 {
@@ -53101,7 +53047,6 @@ width = 330;
 unicode = 04C9;
 },
 {
-color = 1;
 glyphname = "Chekhakassian-cy";
 layers = (
 {
@@ -53277,7 +53222,6 @@ rightMetricsKey = H;
 unicode = 04CB;
 },
 {
-color = 4;
 glyphname = "Emtail-cy";
 layers = (
 {
@@ -53406,7 +53350,6 @@ width = 278;
 unicode = 04D6;
 },
 {
-color = 3;
 glyphname = "Schwa-cy";
 layers = (
 {
@@ -53443,7 +53386,6 @@ width = 367;
 unicode = 04D8;
 },
 {
-color = 4;
 glyphname = "Schwadieresis-cy";
 layers = (
 {
@@ -53540,7 +53482,6 @@ width = 365;
 unicode = 04DE;
 },
 {
-color = 1;
 glyphname = "Dzeabkhasian-cy";
 layers = (
 {
@@ -53846,7 +53787,6 @@ rightMetricsKey = B;
 unicode = 04E0;
 },
 {
-color = 4;
 glyphname = "Imacron-cy";
 layers = (
 {
@@ -53943,7 +53883,6 @@ width = 355;
 unicode = 04E6;
 },
 {
-color = 4;
 glyphname = "Obarred-cy";
 layers = (
 {
@@ -53988,7 +53927,6 @@ width = 355;
 unicode = 04E8;
 },
 {
-color = 4;
 glyphname = "Obarreddieresis-cy";
 layers = (
 {
@@ -54021,7 +53959,6 @@ width = 355;
 unicode = 04EA;
 },
 {
-color = 4;
 glyphname = "Edieresis-cy";
 layers = (
 {
@@ -54182,7 +54119,6 @@ width = 339;
 unicode = 04F4;
 },
 {
-color = 4;
 glyphname = "Gedescender-cy";
 layers = (
 {
@@ -54247,7 +54183,6 @@ width = 418;
 unicode = 04F8;
 },
 {
-color = 4;
 glyphname = "Gestrokehook-cy";
 layers = (
 {
@@ -54280,7 +54215,6 @@ width = 265;
 unicode = 04FA;
 },
 {
-color = 1;
 glyphname = "Hahook-cy";
 layers = (
 {
@@ -54508,7 +54442,6 @@ leftMetricsKey = X;
 unicode = 04FC;
 },
 {
-color = 4;
 glyphname = "Hastroke-cy";
 layers = (
 {
@@ -54541,7 +54474,6 @@ width = 304;
 unicode = 04FE;
 },
 {
-color = 1;
 glyphname = "Reversedze-cy";
 layers = (
 {
@@ -54947,7 +54879,6 @@ rightMetricsKey = "=|Ze-cy-10";
 unicode = 0510;
 },
 {
-color = 1;
 glyphname = "Elhook-cy";
 layers = (
 {
@@ -55214,7 +55145,6 @@ width = 494;
 unicode = 051C;
 },
 {
-color = 1;
 glyphname = "Semisoftsign-cy";
 layers = (
 {
@@ -55293,7 +55223,6 @@ width = 380;
 unicode = 048C;
 },
 {
-color = 1;
 glyphname = "Ertick-cy";
 layers = (
 {
@@ -55601,7 +55530,6 @@ width = 299;
 unicode = 0430;
 },
 {
-color = 1;
 glyphname = "be-cy";
 layers = (
 {
@@ -55976,7 +55904,6 @@ width = 286;
 unicode = 0432;
 },
 {
-color = 4;
 glyphname = "ge-cy";
 layers = (
 {
@@ -56163,7 +56090,6 @@ width = 241;
 unicode = 0453;
 },
 {
-color = 4;
 glyphname = "gheupturn-cy";
 layers = (
 {
@@ -56299,7 +56225,6 @@ rightMetricsKey = f;
 unicode = 0491;
 },
 {
-color = 1;
 glyphname = "de-cy";
 layers = (
 {
@@ -56797,7 +56722,6 @@ width = 340;
 unicode = 0434;
 },
 {
-color = 4;
 glyphname = "ie-cy";
 layers = (
 {
@@ -56898,18 +56822,17 @@ width = 284;
 unicode = 0451;
 },
 {
-color = 4;
 glyphname = "zhe-cy";
 layers = (
 {
 anchors = (
 {
 name = bottomright;
-position = "{346, -2}";
+position = "{344, -2}";
 },
 {
 name = top;
-position = "{213, 659}";
+position = "{217, 659}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -56917,214 +56840,220 @@ paths = (
 {
 closed = 1;
 nodes = (
-"75 -27 OFFCURVE",
-"103 -21 OFFCURVE",
-"114 5 CURVE",
-"130 36 OFFCURVE",
-"132 95 OFFCURVE",
-"137 145 CURVE",
-"139 181 OFFCURVE",
-"135 219 OFFCURVE",
-"139 257 CURVE",
-"141 286 OFFCURVE",
-"148 314 OFFCURVE",
-"169 337 CURVE",
-"176 345 OFFCURVE",
-"183 349 OFFCURVE",
-"194 345 CURVE",
-"194 318 OFFCURVE",
-"195 291 OFFCURVE",
+"62 -13 OFFCURVE",
+"71 -17 OFFCURVE",
+"80 -17 CURVE SMOOTH",
+"92 -17 OFFCURVE",
+"104 -9 OFFCURVE",
+"110 6 CURVE",
+"126 37 OFFCURVE",
+"128 95 OFFCURVE",
+"133 145 CURVE",
+"135 181 OFFCURVE",
+"131 219 OFFCURVE",
+"135 257 CURVE",
+"137 293 OFFCURVE",
+"147 318 OFFCURVE",
+"166 338 CURVE",
+"174 348 OFFCURVE",
+"182 351 OFFCURVE",
+"193 347 CURVE",
+"195 303 OFFCURVE",
+"195 293 OFFCURVE",
 "194 264 CURVE",
 "194 196 OFFCURVE",
 "193 127 OFFCURVE",
-"192 59 CURVE",
+"192 59 CURVE SMOOTH",
 "192 46 OFFCURVE",
 "191 33 OFFCURVE",
 "191 21 CURVE",
-"192 3 OFFCURVE",
-"198 -4 OFFCURVE",
-"211 -3 CURVE",
-"227 -3 OFFCURVE",
-"233 5 OFFCURVE",
-"231 23 CURVE",
-"230 34 OFFCURVE",
-"228 45 OFFCURVE",
-"228 56 CURVE",
-"227 105 OFFCURVE",
-"227 154 OFFCURVE",
-"227 203 CURVE",
-"224 262 OFFCURVE",
-"224 284 OFFCURVE",
-"229 344 CURVE",
-"246 340 OFFCURVE",
-"254 334 OFFCURVE",
-"261 324 CURVE",
-"272 309 OFFCURVE",
+"192 5 OFFCURVE",
+"197 -2 OFFCURVE",
+"209 -1 CURVE",
+"224 -1 OFFCURVE",
+"229 6 OFFCURVE",
+"227 23 CURVE SMOOTH",
+"226 34 OFFCURVE",
+"224 45 OFFCURVE",
+"224 56 CURVE",
+"223 105 OFFCURVE",
+"223 154 OFFCURVE",
+"223 203 CURVE",
+"219 276 OFFCURVE",
+"221 282 OFFCURVE",
+"222 346 CURVE",
+"244 342 OFFCURVE",
+"252 337 OFFCURVE",
+"261 325 CURVE SMOOTH",
+"272 310 OFFCURVE",
 "276 291 OFFCURVE",
 "276 274 CURVE",
 "278 233 OFFCURVE",
 "277 192 OFFCURVE",
-"278 152 CURVE",
+"278 152 CURVE SMOOTH",
 "279 123 OFFCURVE",
 "280 95 OFFCURVE",
 "283 66 CURVE",
-"286 50 OFFCURVE",
-"293 33 OFFCURVE",
-"300 18 CURVE",
-"307 3 OFFCURVE",
-"324 -5 OFFCURVE",
-"343 -5 CURVE SMOOTH",
-"364 -5 OFFCURVE",
-"385 4 OFFCURVE",
-"388 32 CURVE",
-"393 63 OFFCURVE",
-"395 95 OFFCURVE",
-"398 125 CURVE",
-"398 136 OFFCURVE",
-"389 146 OFFCURVE",
-"382 146 CURVE",
-"377 146 OFFCURVE",
-"372 139 OFFCURVE",
-"369 135 CURVE",
+"286 51 OFFCURVE",
+"293 34 OFFCURVE",
+"300 19 CURVE SMOOTH",
+"306 5 OFFCURVE",
+"322 -3 OFFCURVE",
+"341 -3 CURVE SMOOTH",
+"362 -3 OFFCURVE",
+"381 5 OFFCURVE",
+"384 32 CURVE",
+"389 63 OFFCURVE",
+"391 95 OFFCURVE",
+"394 125 CURVE",
+"394 134 OFFCURVE",
+"386 144 OFFCURVE",
+"380 144 CURVE SMOOTH",
+"376 144 OFFCURVE",
+"372 138 OFFCURVE",
+"369 134 CURVE",
 "368 131 OFFCURVE",
 "364 76 OFFCURVE",
 "361 59 CURVE",
-"359 36 OFFCURVE",
-"348 27 OFFCURVE",
-"341 27 CURVE SMOOTH",
-"328 27 OFFCURVE",
-"315 54 OFFCURVE",
-"315 60 CURVE",
-"313 84 OFFCURVE",
-"309 108 OFFCURVE",
-"309 131 CURVE",
-"310 183 OFFCURVE",
-"316 235 OFFCURVE",
-"308 286 CURVE",
-"305 307 OFFCURVE",
-"302 327 OFFCURVE",
-"287 343 CURVE",
-"278 354 OFFCURVE",
-"276 367 OFFCURVE",
-"279 381 CURVE",
-"283 398 OFFCURVE",
-"287 416 OFFCURVE",
-"292 433 CURVE",
-"307 488 OFFCURVE",
-"321 544 OFFCURVE",
-"337 599 CURVE",
-"339 611 OFFCURVE",
-"345 622 OFFCURVE",
-"359 625 CURVE",
-"379 601 OFFCURVE",
-"368 565 OFFCURVE",
-"368 542 CURVE",
-"368 530 OFFCURVE",
-"375 523 OFFCURVE",
-"386 523 CURVE",
-"398 523 OFFCURVE",
-"401 531 OFFCURVE",
-"401 541 CURVE",
-"403 558 OFFCURVE",
-"404 604 OFFCURVE",
-"399 631 CURVE",
-"397 649 OFFCURVE",
-"378 662 OFFCURVE",
-"360 664 CURVE",
-"339 666 OFFCURVE",
-"329 662 OFFCURVE",
-"321 639 CURVE",
-"305 596 OFFCURVE",
-"292 553 OFFCURVE",
-"277 508 CURVE",
+"359 40 OFFCURVE",
+"350 25 OFFCURVE",
+"339 25 CURVE SMOOTH",
+"325 25 OFFCURVE",
+"311 54 OFFCURVE",
+"311 60 CURVE",
+"309 84 OFFCURVE",
+"305 108 OFFCURVE",
+"305 131 CURVE SMOOTH",
+"306 183 OFFCURVE",
+"312 235 OFFCURVE",
+"304 286 CURVE SMOOTH",
+"301 307 OFFCURVE",
+"298 326 OFFCURVE",
+"284 342 CURVE SMOOTH",
+"274 353 OFFCURVE",
+"272 367 OFFCURVE",
+"275 381 CURVE SMOOTH",
+"279 398 OFFCURVE",
+"283 416 OFFCURVE",
+"288 434 CURVE SMOOTH",
+"303 489 OFFCURVE",
+"317 545 OFFCURVE",
+"333 600 CURVE",
+"336 615 OFFCURVE",
+"344 624 OFFCURVE",
+"357 627 CURVE",
+"380 600 OFFCURVE",
+"368 567 OFFCURVE",
+"368 542 CURVE SMOOTH",
+"368 532 OFFCURVE",
+"374 525 OFFCURVE",
+"384 525 CURVE SMOOTH",
+"393 525 OFFCURVE",
+"397 529 OFFCURVE",
+"397 541 CURVE",
+"399 558 OFFCURVE",
+"400 604 OFFCURVE",
+"395 631 CURVE",
+"393 646 OFFCURVE",
+"377 660 OFFCURVE",
+"358 662 CURVE SMOOTH",
+"337 664 OFFCURVE",
+"328 659 OFFCURVE",
+"321 638 CURVE SMOOTH",
+"305 595 OFFCURVE",
+"292 552 OFFCURVE",
+"277 507 CURVE",
 "267 473 OFFCURVE",
 "259 423 OFFCURVE",
-"249 389 CURVE",
-"248 382 OFFCURVE",
-"243 377 OFFCURVE",
-"239 372 CURVE",
-"236 373 OFFCURVE",
-"234 373 OFFCURVE",
-"232 374 CURVE",
-"228 417 OFFCURVE",
-"234 475 OFFCURVE",
-"233 519 CURVE",
-"233 564 OFFCURVE",
-"236 609 OFFCURVE",
-"237 656 CURVE",
-"213 660 OFFCURVE",
-"200 666 OFFCURVE",
+"249 388 CURVE",
+"248 380 OFFCURVE",
+"243 373 OFFCURVE",
+"236 370 CURVE",
+"233 371 OFFCURVE",
+"232 371 OFFCURVE",
+"229 372 CURVE",
+"223 424 OFFCURVE",
+"230 470 OFFCURVE",
+"229 519 CURVE",
+"229 564 OFFCURVE",
+"232 609 OFFCURVE",
+"233 656 CURVE",
+"211 659 OFFCURVE",
+"202 658 OFFCURVE",
 "204 639 CURVE",
 "204 633 OFFCURVE",
 "206 627 OFFCURVE",
 "205 621 CURVE",
 "198 549 OFFCURVE",
 "196 477 OFFCURVE",
-"196 405 CURVE",
-"196 392 OFFCURVE",
-"196 383 OFFCURVE",
-"195 372 CURVE",
-"184 373 OFFCURVE",
-"177 374 OFFCURVE",
-"170 375 CURVE",
-"168 416 OFFCURVE",
-"168 458 OFFCURVE",
-"166 495 CURVE",
-"164 524 OFFCURVE",
-"161 553 OFFCURVE",
-"160 580 CURVE",
-"159 608 OFFCURVE",
-"148 630 OFFCURVE",
-"129 649 CURVE",
-"108 671 OFFCURVE",
-"76 668 OFFCURVE",
-"60 642 CURVE",
-"42 615 OFFCURVE",
+"196 405 CURVE SMOOTH",
+"196 393 OFFCURVE",
+"196 382 OFFCURVE",
+"195 370 CURVE",
+"184 371 OFFCURVE",
+"172 367 OFFCURVE",
+"165 368 CURVE",
+"164 419 OFFCURVE",
+"165 446 OFFCURVE",
+"162 495 CURVE SMOOTH",
+"160 524 OFFCURVE",
+"157 553 OFFCURVE",
+"156 580 CURVE SMOOTH",
+"155 606 OFFCURVE",
+"146 627 OFFCURVE",
+"126 648 CURVE SMOOTH",
+"117 657 OFFCURVE",
+"106 662 OFFCURVE",
+"95 662 CURVE SMOOTH",
+"82 662 OFFCURVE",
+"68 655 OFFCURVE",
+"60 641 CURVE",
+"42 614 OFFCURVE",
 "39 582 OFFCURVE",
-"39 550 CURVE",
-"39 535 OFFCURVE",
-"51 526 OFFCURVE",
-"63 527 CURVE",
-"74 528 OFFCURVE",
-"79 536 OFFCURVE",
-"77 554 CURVE",
-"72 592 OFFCURVE",
-"84 606 OFFCURVE",
-"103 630 CURVE",
-"122 612 OFFCURVE",
-"129 600 OFFCURVE",
-"130 574 CURVE",
+"39 550 CURVE SMOOTH",
+"39 537 OFFCURVE",
+"49 528 OFFCURVE",
+"61 529 CURVE SMOOTH",
+"71 530 OFFCURVE",
+"75 538 OFFCURVE",
+"73 554 CURVE SMOOTH",
+"68 593 OFFCURVE",
+"80 627 OFFCURVE",
+"99 631 CURVE",
+"110 631 OFFCURVE",
+"129 606 OFFCURVE",
+"130 574 CURVE SMOOTH",
 "133 513 OFFCURVE",
 "137 452 OFFCURVE",
-"138 390 CURVE",
+"138 390 CURVE SMOOTH",
 "138 371 OFFCURVE",
-"137 351 OFFCURVE",
-"126 333 CURVE",
-"112 310 OFFCURVE",
+"137 350 OFFCURVE",
+"126 332 CURVE SMOOTH",
+"112 309 OFFCURVE",
 "109 282 OFFCURVE",
-"107 256 CURVE",
+"107 256 CURVE SMOOTH",
 "104 198 OFFCURVE",
 "103 138 OFFCURVE",
-"99 80 CURVE",
-"98 59 OFFCURVE",
-"95 37 OFFCURVE",
-"76 19 CURVE",
-"55 44 OFFCURVE",
-"54 71 OFFCURVE",
-"57 99 CURVE",
-"58 114 OFFCURVE",
-"55 122 OFFCURVE",
-"45 123 CURVE",
-"35 125 OFFCURVE",
-"24 118 OFFCURVE",
-"23 105 CURVE",
-"20 64 OFFCURVE",
-"27 25 OFFCURVE",
-"56 -6 CURVE"
+"99 80 CURVE SMOOTH",
+"97 45 OFFCURVE",
+"89 16 OFFCURVE",
+"72 18 CURVE",
+"51 43 OFFCURVE",
+"50 71 OFFCURVE",
+"53 99 CURVE",
+"54 114 OFFCURVE",
+"51 120 OFFCURVE",
+"43 121 CURVE",
+"33 123 OFFCURVE",
+"24 116 OFFCURVE",
+"23 105 CURVE SMOOTH",
+"20 59 OFFCURVE",
+"30 23 OFFCURVE",
+"55 -5 CURVE SMOOTH"
 );
 }
 );
-width = 425;
+width = 421;
 },
 {
 anchors = (
@@ -58095,7 +58024,6 @@ rightMetricsKey = k;
 unicode = 0436;
 },
 {
-color = 1;
 glyphname = "ze-cy";
 layers = (
 {
@@ -58580,7 +58508,6 @@ width = 439;
 unicode = 045D;
 },
 {
-color = 4;
 glyphname = "iishorttail-cy";
 layers = (
 {
@@ -58621,7 +58548,6 @@ width = 439;
 unicode = 048B;
 },
 {
-color = 4;
 glyphname = "ka-cy";
 layers = (
 {
@@ -58920,7 +58846,6 @@ width = 342;
 unicode = 045C;
 },
 {
-color = 1;
 glyphname = "el-cy";
 layers = (
 {
@@ -59153,7 +59078,6 @@ width = 561;
 unicode = 043C;
 },
 {
-color = 1;
 glyphname = "en-cy";
 layers = (
 {
@@ -59671,7 +59595,6 @@ width = 256;
 unicode = 0442;
 },
 {
-color = 1;
 glyphname = "u-cy";
 layers = (
 {
@@ -60195,7 +60118,6 @@ width = 243;
 unicode = 0445;
 },
 {
-color = 1;
 glyphname = "che-cy";
 layers = (
 {
@@ -60438,7 +60360,6 @@ rightMetricsKey = h;
 unicode = 0447;
 },
 {
-color = 1;
 glyphname = "tse-cy";
 layers = (
 {
@@ -60669,7 +60590,6 @@ leftMetricsKey = h;
 unicode = 0446;
 },
 {
-color = 3;
 glyphname = "sha-cy";
 layers = (
 {
@@ -60947,7 +60867,6 @@ rightMetricsKey = h;
 unicode = 0448;
 },
 {
-color = 3;
 glyphname = "shcha-cy";
 layers = (
 {
@@ -61229,7 +61148,6 @@ rightMetricsKey = "de-cy";
 unicode = 0449;
 },
 {
-color = 3;
 glyphname = "dzhe-cy";
 layers = (
 {
@@ -61503,7 +61421,6 @@ rightMetricsKey = h;
 unicode = 045F;
 },
 {
-color = 1;
 glyphname = "softsign-cy";
 layers = (
 {
@@ -61654,7 +61571,6 @@ leftMetricsKey = h;
 unicode = 044C;
 },
 {
-color = 1;
 glyphname = "hardsign-cy";
 layers = (
 {
@@ -62107,7 +62023,6 @@ rightMetricsKey = h;
 unicode = 044B;
 },
 {
-color = 3;
 glyphname = "lje-cy";
 layers = (
 {
@@ -62538,7 +62453,6 @@ rightMetricsKey = "softsign-cy";
 unicode = 0459;
 },
 {
-color = 3;
 glyphname = "nje-cy";
 layers = (
 {
@@ -62862,7 +62776,6 @@ width = 247;
 unicode = 0455;
 },
 {
-color = 3;
 glyphname = "e-cy";
 layers = (
 {
@@ -63044,7 +62957,6 @@ rightMetricsKey = c;
 unicode = 0454;
 },
 {
-color = 3;
 glyphname = "ereversed-cy";
 layers = (
 {
@@ -63327,7 +63239,6 @@ width = 254;
 unicode = 0458;
 },
 {
-color = 1;
 glyphname = "tshe-cy";
 layers = (
 {
@@ -63551,7 +63462,6 @@ leftMetricsKey = t;
 unicode = 045B;
 },
 {
-color = 4;
 glyphname = "iu-cy";
 layers = (
 {
@@ -64687,7 +64597,6 @@ rightMetricsKey = o;
 unicode = 044E;
 },
 {
-color = 1;
 glyphname = "ia-cy";
 layers = (
 {
@@ -65043,7 +64952,6 @@ rightMetricsKey = h;
 unicode = 044F;
 },
 {
-color = 1;
 glyphname = "dje-cy";
 layers = (
 {
@@ -65304,7 +65212,6 @@ leftMetricsKey = t;
 unicode = 0452;
 },
 {
-color = 1;
 glyphname = "yat-cy";
 layers = (
 {
@@ -65676,7 +65583,6 @@ leftMetricsKey = t;
 unicode = 0463;
 },
 {
-color = 1;
 glyphname = "yusbig-cy";
 layers = (
 {
@@ -65931,7 +65837,6 @@ rightMetricsKey = "zhe-cy";
 unicode = 046B;
 },
 {
-color = 1;
 glyphname = "fita-cy";
 layers = (
 {
@@ -65966,7 +65871,6 @@ width = 415;
 unicode = 0473;
 },
 {
-color = 1;
 glyphname = "izhitsa-cy";
 layers = (
 {
@@ -66163,7 +66067,6 @@ leftMetricsKey = v;
 unicode = 0475;
 },
 {
-color = 4;
 glyphname = "ghestroke-cy";
 layers = (
 {
@@ -66208,7 +66111,6 @@ width = 241;
 unicode = 0493;
 },
 {
-color = 1;
 glyphname = "ghemiddlehook-cy";
 layers = (
 {
@@ -66404,7 +66306,6 @@ leftMetricsKey = H;
 unicode = 0495;
 },
 {
-color = 1;
 glyphname = "zhedescender-cy";
 layers = (
 {
@@ -66835,7 +66736,6 @@ leftMetricsKey = "zhe-cy";
 unicode = 0497;
 },
 {
-color = 1;
 glyphname = "zedescender-cy";
 layers = (
 {
@@ -66970,7 +66870,6 @@ width = 310;
 unicode = 0499;
 },
 {
-color = 1;
 glyphname = "kadescender-cy";
 layers = (
 {
@@ -67240,7 +67139,6 @@ width = 361;
 unicode = 049B;
 },
 {
-color = 4;
 glyphname = "kaverticalstroke-cy";
 layers = (
 {
@@ -67685,7 +67583,6 @@ rightMetricsKey = "ka-cy";
 unicode = 049D;
 },
 {
-color = 1;
 glyphname = "kastroke-cy";
 layers = (
 {
@@ -68054,7 +67951,6 @@ width = 375;
 unicode = 049F;
 },
 {
-color = 4;
 glyphname = "kabashkir-cy";
 layers = (
 {
@@ -68191,7 +68087,6 @@ rightMetricsKey = "ka-cy";
 unicode = 04A1;
 },
 {
-color = 4;
 glyphname = "endescender-cy";
 layers = (
 {
@@ -68224,7 +68119,6 @@ width = 331;
 unicode = 04A3;
 },
 {
-color = 4;
 glyphname = "pedescender-cy";
 layers = (
 {
@@ -68257,7 +68151,6 @@ width = 335;
 unicode = 0525;
 },
 {
-color = 1;
 glyphname = "haabkhasian-cy";
 layers = (
 {
@@ -68526,7 +68419,6 @@ rightMetricsKey = o;
 unicode = 04A9;
 },
 {
-color = 1;
 glyphname = "esdescender-cy";
 layers = (
 {
@@ -68628,7 +68520,6 @@ width = 272;
 unicode = 04AB;
 },
 {
-color = 4;
 glyphname = "tedescender-cy";
 layers = (
 {
@@ -68661,7 +68552,6 @@ width = 256;
 unicode = 04AD;
 },
 {
-color = 4;
 glyphname = "ustrait-cy";
 layers = (
 {
@@ -68698,7 +68588,6 @@ width = 283;
 unicode = 04AF;
 },
 {
-color = 4;
 glyphname = "ustraitstroke-cy";
 layers = (
 {
@@ -68731,7 +68620,6 @@ width = 283;
 unicode = 04B1;
 },
 {
-color = 4;
 glyphname = "hadescender-cy";
 layers = (
 {
@@ -68764,7 +68652,6 @@ width = 243;
 unicode = 04B3;
 },
 {
-color = 4;
 glyphname = "chedescender-cy";
 layers = (
 {
@@ -68797,7 +68684,6 @@ width = 314;
 unicode = 04B7;
 },
 {
-color = 1;
 glyphname = "cheverticalstroke-cy";
 layers = (
 {
@@ -69035,7 +68921,6 @@ rightMetricsKey = h;
 unicode = 04B9;
 },
 {
-color = 1;
 glyphname = "shha-cy";
 layers = (
 {
@@ -69243,7 +69128,6 @@ leftMetricsKey = h;
 unicode = 04BB;
 },
 {
-color = 4;
 glyphname = "shhadescender-cy";
 layers = (
 {
@@ -69331,7 +69215,6 @@ rightMetricsKey = "de-cy";
 unicode = 0527;
 },
 {
-color = 1;
 glyphname = "cheabkhasian-cy";
 layers = (
 {
@@ -69568,7 +69451,6 @@ rightMetricsKey = o;
 unicode = 04BD;
 },
 {
-color = 1;
 glyphname = "chedescenderabkhasian-cy";
 layers = (
 {
@@ -69681,7 +69563,6 @@ width = 403;
 unicode = 04BF;
 },
 {
-color = 4;
 glyphname = "palochka-cy";
 layers = (
 {
@@ -69738,7 +69619,6 @@ width = 553;
 unicode = 04C2;
 },
 {
-color = 1;
 glyphname = "kahook-cy";
 layers = (
 {
@@ -70082,7 +69962,6 @@ rightMetricsKey = "ka-cy";
 unicode = 04C4;
 },
 {
-color = 4;
 glyphname = "eltail-cy";
 layers = (
 {
@@ -70115,7 +69994,6 @@ width = 369;
 unicode = 04C6;
 },
 {
-color = 1;
 glyphname = "enhook-cy";
 layers = (
 {
@@ -70346,7 +70224,6 @@ rightMetricsKey = "en-cy";
 unicode = 04C8;
 },
 {
-color = 4;
 glyphname = "entail-cy";
 layers = (
 {
@@ -70379,7 +70256,6 @@ width = 331;
 unicode = 04CA;
 },
 {
-color = 1;
 glyphname = "chekhakassian-cy";
 layers = (
 {
@@ -70538,7 +70414,6 @@ width = 338;
 unicode = 04CC;
 },
 {
-color = 4;
 glyphname = "emtail-cy";
 layers = (
 {
@@ -70667,7 +70542,6 @@ width = 284;
 unicode = 04D7;
 },
 {
-color = 3;
 glyphname = "schwa-cy";
 layers = (
 {
@@ -70704,7 +70578,6 @@ width = 377;
 unicode = 04D9;
 },
 {
-color = 4;
 glyphname = "schwadieresis-cy";
 layers = (
 {
@@ -70801,7 +70674,6 @@ width = 309;
 unicode = 04DF;
 },
 {
-color = 1;
 glyphname = "dzeabkhasian-cy";
 layers = (
 {
@@ -71004,7 +70876,6 @@ rightMetricsKey = "Ze-cy";
 unicode = 04E1;
 },
 {
-color = 4;
 glyphname = "imacron-cy";
 layers = (
 {
@@ -71101,7 +70972,6 @@ width = 361;
 unicode = 04E7;
 },
 {
-color = 4;
 glyphname = "obarred-cy";
 layers = (
 {
@@ -71146,7 +71016,6 @@ width = 361;
 unicode = 04E9;
 },
 {
-color = 4;
 glyphname = "obarreddieresis-cy";
 layers = (
 {
@@ -71179,7 +71048,6 @@ width = 361;
 unicode = 04EB;
 },
 {
-color = 4;
 glyphname = "edieresis-cy";
 layers = (
 {
@@ -71340,7 +71208,6 @@ width = 314;
 unicode = 04F5;
 },
 {
-color = 4;
 glyphname = "gedescender-cy";
 layers = (
 {
@@ -71405,7 +71272,6 @@ width = 406;
 unicode = 04F9;
 },
 {
-color = 4;
 glyphname = "gestrokehook-cy";
 layers = (
 {
@@ -71438,7 +71304,6 @@ width = 241;
 unicode = 04FB;
 },
 {
-color = 1;
 glyphname = "hahook-cy";
 layers = (
 {
@@ -71665,7 +71530,6 @@ rightMetricsKey = "=x-10";
 unicode = 04FD;
 },
 {
-color = 4;
 glyphname = "hastroke-cy";
 layers = (
 {
@@ -71698,7 +71562,6 @@ width = 243;
 unicode = 04FF;
 },
 {
-color = 1;
 glyphname = "reversedze-cy";
 layers = (
 {
@@ -71890,7 +71753,6 @@ rightMetricsKey = "=|ze-cy-10";
 unicode = 0511;
 },
 {
-color = 1;
 glyphname = "elhook-cy";
 layers = (
 {
@@ -72129,7 +71991,6 @@ width = 429;
 unicode = 051D;
 },
 {
-color = 1;
 glyphname = "semisoftsign-cy";
 layers = (
 {
@@ -72209,7 +72070,6 @@ leftMetricsKey = t;
 unicode = 048D;
 },
 {
-color = 1;
 glyphname = "ertick-cy";
 layers = (
 {
@@ -72466,7 +72326,6 @@ width = 304;
 unicode = 048F;
 },
 {
-color = 4;
 glyphname = "eldescender-cy";
 layers = (
 {
@@ -72499,7 +72358,6 @@ width = 369;
 unicode = 052F;
 },
 {
-color = 1;
 glyphname = "enlefthook-cy";
 layers = (
 {
@@ -72726,7 +72584,6 @@ rightMetricsKey = "en-cy";
 unicode = 0529;
 },
 {
-color = 4;
 glyphname = "Enghe-cy";
 layers = (
 {
@@ -72947,7 +72804,6 @@ rightMetricsKey = "Ge-cy";
 unicode = 04A4;
 },
 {
-color = 4;
 glyphname = "enghe-cy";
 layers = (
 {
@@ -73213,7 +73069,6 @@ rightMetricsKey = "ge-cy";
 unicode = 04A5;
 },
 {
-color = 4;
 glyphname = "Tetse-cy";
 layers = (
 {
@@ -73394,7 +73249,6 @@ rightMetricsKey = "De-cy";
 unicode = 04B4;
 },
 {
-color = 4;
 glyphname = "tetse-cy";
 layers = (
 {
