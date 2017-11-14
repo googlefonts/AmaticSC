@@ -55939,7 +55939,7 @@ name = b;
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
-width = 283;
+width = 300;
 },
 {
 components = (
@@ -68126,7 +68126,7 @@ nodes = (
 );
 }
 );
-width = 313;
+width = 330;
 },
 {
 background = {
@@ -68190,7 +68190,7 @@ nodes = (
 );
 }
 );
-width = 386;
+width = 413;
 }
 );
 leftMetricsKey = t;
@@ -73442,7 +73442,7 @@ nodes = (
 );
 }
 );
-width = 345;
+width = 362;
 },
 {
 background = {
@@ -73534,7 +73534,7 @@ nodes = (
 );
 }
 );
-width = 339;
+width = 366;
 }
 );
 leftMetricsKey = t;
