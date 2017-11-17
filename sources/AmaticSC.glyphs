@@ -1,5 +1,5 @@
 {
-.appVersion = "1075";
+.appVersion = "1084";
 classes = (
 {
 automatic = 1;
@@ -262,7 +262,9 @@ value = 0;
 }
 );
 descender = -247;
+iconName = Condensed;
 id = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
+name = Condensed;
 userData = {
 GSOffsetHorizontal = -1;
 GSOffsetVertical = -2;
@@ -320,7 +322,9 @@ value = 0;
 }
 );
 descender = -247;
+iconName = Bold_Condensed;
 id = "156B637B-193E-48A3-AAC8-7B4A3960F885";
+name = "Bold Condensed";
 userData = {
 GSOffsetHorizontal = 2;
 GSOffsetVertical = 2;
@@ -667,7 +671,7 @@ transform = "{1, 0, 0, 1, 40, 128}";
 },
 {
 name = acutecomb.case;
-transform = "{1, 0, 0, 1, 88, 321}";
+transform = "{1, 0, 0, 1, 79, 291}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -747,7 +751,7 @@ transform = "{1, 0, 0, 1, 40, 128}";
 },
 {
 name = gravecomb.case;
-transform = "{1, 0, 0, 1, -46, 292}";
+transform = "{1, 0, 0, 1, -55, 262}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -787,7 +791,7 @@ transform = "{1, 0, 0, 1, 40, 128}";
 },
 {
 name = hookabovecomb.case;
-transform = "{1, 0, 0, 1, 57, 384}";
+transform = "{1, 0, 0, 1, 48, 354}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -827,7 +831,7 @@ transform = "{1, 0, 0, 1, 40, 128}";
 },
 {
 name = tildecomb.case;
-transform = "{1, 0, 0, 1, 8, 297}";
+transform = "{1, 0, 0, 1, -1, 267}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -18200,7 +18204,7 @@ transform = "{1, 0, 0, 1, 20, 206}";
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 80, 147}";
+transform = "{1, 0, 0, 1, 80, 167}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -18216,8 +18220,9 @@ name = brevecomb;
 transform = "{1, 0, 0, 1, -5, 59}";
 },
 {
+alignment = -1;
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 15, 308}";
+transform = "{1, 0, 0, 1, -4, 273}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -18683,7 +18688,7 @@ name = a;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 80, 9}";
+transform = "{1, 0, 0, 1, 80, 29}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -21804,7 +21809,7 @@ name = e;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 34, 0}";
+transform = "{1, 0, 0, 1, 34, 20}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -24076,7 +24081,7 @@ name = idotless;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 18, 0}";
+transform = "{1, 0, 0, 1, 18, 20}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -28151,7 +28156,7 @@ name = o;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 67, 0}";
+transform = "{1, 0, 0, 1, 67, 20}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -28354,7 +28359,7 @@ name = ohorn;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 67, 0}";
+transform = "{1, 0, 0, 1, 67, 20}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -32049,7 +32054,7 @@ name = u;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 53, 0}";
+transform = "{1, 0, 0, 1, 53, 20}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -32221,7 +32226,7 @@ name = uhorn;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 53, 0}";
+transform = "{1, 0, 0, 1, 53, 20}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -33718,7 +33723,7 @@ name = y;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 13, 0}";
+transform = "{1, 0, 0, 1, 13, 20}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -60275,7 +60280,7 @@ transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
-width = 281;
+width = 261;
 },
 {
 components = (
@@ -72341,7 +72346,7 @@ transform = "{1, 0, 0, 1, -35, 83}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
-width = 281;
+width = 261;
 },
 {
 components = (
@@ -72373,7 +72378,7 @@ transform = "{1, 0, 0, 1, -86, 199}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
-width = 281;
+width = 261;
 },
 {
 components = (
@@ -72405,7 +72410,7 @@ transform = "{1, 0, 0, 1, -23, 171}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
-width = 281;
+width = 261;
 },
 {
 components = (
@@ -106975,7 +106980,7 @@ layers = (
 anchors = (
 {
 name = _top;
-position = "{106, 659}";
+position = "{106, 639}";
 },
 {
 name = top;
@@ -107164,44 +107169,44 @@ paths = (
 {
 closed = 1;
 nodes = (
-"166 583 OFFCURVE",
-"167 584 OFFCURVE",
-"169 585 CURVE",
-"170 586 OFFCURVE",
+"169 583 OFFCURVE",
+"170 584 OFFCURVE",
+"171 585 CURVE",
+"172 586 OFFCURVE",
 "177 586 OFFCURVE",
-"189 586 CURVE",
-"189 604 LINE",
-"189 638 OFFCURVE",
-"278 607 OFFCURVE",
-"278 677 CURVE SMOOTH",
-"278 707 OFFCURVE",
-"265 755 OFFCURVE",
-"170 755 CURVE SMOOTH",
-"106 755 OFFCURVE",
-"74 728 OFFCURVE",
-"74 684 CURVE SMOOTH",
-"74 675 LINE SMOOTH",
-"74 665 OFFCURVE",
-"83 653 OFFCURVE",
-"102 653 CURVE SMOOTH",
-"113 653 OFFCURVE",
-"129 672 OFFCURVE",
-"129 673 CURVE",
-"125 679 OFFCURVE",
-"123 682 OFFCURVE",
-"123 683 CURVE SMOOTH",
-"123 700 OFFCURVE",
-"140 712 OFFCURVE",
-"172 712 CURVE SMOOTH",
-"208 712 OFFCURVE",
-"226 695 OFFCURVE",
-"226 677 CURVE SMOOTH",
-"226 645 OFFCURVE",
-"141 678 OFFCURVE",
-"141 599 CURVE",
-"145 588 OFFCURVE",
-"152 583 OFFCURVE",
-"164 583 CURVE SMOOTH"
+"185 586 CURVE",
+"185 604 LINE",
+"185 638 OFFCURVE",
+"256 607 OFFCURVE",
+"256 677 CURVE SMOOTH",
+"256 707 OFFCURVE",
+"237 755 OFFCURVE",
+"172 755 CURVE SMOOTH",
+"128 755 OFFCURVE",
+"96 728 OFFCURVE",
+"96 684 CURVE SMOOTH",
+"96 675 LINE SMOOTH",
+"96 665 OFFCURVE",
+"102 653 OFFCURVE",
+"125 653 CURVE SMOOTH",
+"133 653 OFFCURVE",
+"144 672 OFFCURVE",
+"144 673 CURVE",
+"141 679 OFFCURVE",
+"140 682 OFFCURVE",
+"140 683 CURVE SMOOTH",
+"140 700 OFFCURVE",
+"151 712 OFFCURVE",
+"173 712 CURVE SMOOTH",
+"198 712 OFFCURVE",
+"210 695 OFFCURVE",
+"210 677 CURVE SMOOTH",
+"210 645 OFFCURVE",
+"152 678 OFFCURVE",
+"152 599 CURVE",
+"155 588 OFFCURVE",
+"160 583 OFFCURVE",
+"168 583 CURVE SMOOTH"
 );
 }
 );
@@ -108556,7 +108561,7 @@ position = "{154, 630}";
 },
 {
 name = top;
-position = "{179, 817}";
+position = "{170, 787}";
 }
 );
 components = (
@@ -114308,7 +114313,7 @@ name = circumflexcomb;
 {
 alignment = -1;
 name = acutecomb;
-transform = "{1, 0, 0, 1, 113, 33}";
+transform = "{1, 0, 0, 1, 135, 33}";
 }
 );
 layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
@@ -114332,7 +114337,7 @@ name = circumflex;
 {
 alignment = -1;
 name = acutecomb;
-transform = "{1, 0, 0, 1, 145, 126}";
+transform = "{1, 0, 0, 1, 168, 126}";
 }
 );
 layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
@@ -115249,8 +115254,84 @@ weightClass = Bold;
 );
 kerning = {
 "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70" = {
+"A-cy" = {
+"Che-cy" = -20;
+"El-cy" = -20;
+"Hardsign-cy" = -20;
+"Ia-cy" = -40;
+"Te-cy" = -20;
+"Ze-cy" = -20;
+"u-cy" = -20;
+};
+"Be-cy" = {
+"Che-cy" = -10;
+"De-cy" = -10;
+"El-cy" = -10;
+"Ia-cy" = -20;
+};
+"Che-cy" = {
+"A-cy" = -10;
+"De-cy" = -10;
+"Ia-cy" = -10;
+};
 D = {
 period = -50;
+};
+"De-cy" = {
+"Che-cy" = -20;
+"Ef-cy" = -40;
+"Hardsign-cy" = -30;
+"O-cy" = -30;
+"Te-cy" = -50;
+"U-cy" = -20;
+"Ze-cy" = -10;
+"u-cy" = -20;
+};
+"Ef-cy" = {
+"De-cy" = -20;
+"Ereversed-cy" = -10;
+"Hardsign-cy" = -10;
+"Ze-cy" = -10;
+"Zhe-cy" = -10;
+};
+"El-cy" = {
+"Ia-cy" = -20;
+};
+"Er-cy" = {
+"A-cy" = -40;
+"De-cy" = -40;
+"El-cy" = -40;
+"Ia-cy" = -10;
+"Ze-cy" = -10;
+"Zhe-cy" = -20;
+};
+"Ge-cy" = {
+"A-cy" = -50;
+"Che-cy" = -10;
+"De-cy" = -30;
+"Ef-cy" = -20;
+"El-cy" = -40;
+"Ia-cy" = -50;
+"U-cy" = -20;
+"Ze-cy" = -10;
+"de-cy" = -50;
+"o-cy" = -40;
+"u-cy" = -40;
+};
+"Ha-cy" = {
+"Ze-cy" = -10;
+};
+"Ia-cy" = {
+"El-cy" = -10;
+O = 0;
+};
+"Iu-cy" = {
+"A-cy" = -10;
+"Che-cy" = -10;
+"De-cy" = -30;
+"Hardsign-cy" = -10;
+"Ia-cy" = -30;
+"Zhe-cy" = -30;
 };
 L = {
 asterisk = -20;
@@ -115258,15 +115339,22 @@ periodcentered.loclCAT = -100;
 };
 O = {
 P = 0;
-"Zhe-cy" = -10;
 "Tse-cy" = 0;
+"Zhe-cy" = -10;
+};
+"O-cy" = {
+"De-cy" = 0;
+"Ia-cy" = -10;
 };
 P = {
 AE = -10;
+O = -10;
 a = -30;
 four = -20;
 period = -70;
-O = -10;
+};
+"Pe-cy" = {
+"Ia-cy" = -30;
 };
 R = {
 backslash = -20;
@@ -115274,20 +115362,96 @@ backslash = -20;
 S = {
 S = -39.0625;
 };
+"Shcha-cy" = {
+"Che-cy" = -40;
+"Te-cy" = -60;
+};
 T = {
 A = -30;
 a = -40;
+};
+"Te-cy" = {
+"A-cy" = -50;
+"De-cy" = -40;
+"El-cy" = -50;
+"Ia-cy" = -30;
+"Ze-cy" = -10;
+};
+"Tse-cy" = {
+"Hardsign-cy" = -60;
+"Te-cy" = -50;
+"U-cy" = -10;
+"Ze-cy" = -10;
+};
+"U-cy" = {
+"A-cy" = -40;
+"De-cy" = -50;
+"El-cy" = -40;
+"Ia-cy" = -30;
+O = -20;
 };
 V = {
 A = -30;
 a = -20;
 ampersand = -10;
 };
+"Ve-cy" = {
+"De-cy" = -20;
+"El-cy" = -10;
+"Ia-cy" = -10;
+};
+"Ze-cy" = {
+"El-cy" = -20;
+};
+"a-cy" = {
+"ereversed-cy" = -10;
+};
 backslash = {
 O = -20;
 };
 "dalet-hb" = {
 "bet-hb" = -53.71094;
+};
+"de-cy" = {
+"che-cy" = -20;
+"de-cy" = 10;
+"ef-cy" = -10;
+"hardsign-cy" = -10;
+o = -20;
+"te-cy" = -10;
+"u-cy" = -10;
+};
+"ef-cy" = {
+"a-cy" = -20;
+"el-cy" = 0;
+"ereversed-cy" = -10;
+o = -10;
+"te-cy" = -20;
+};
+"el-cy" = {
+"u-cy" = -10;
+};
+"er-cy" = {
+"el-cy" = -10;
+"ereversed-cy" = -10;
+};
+"ereversed-cy" = {
+o = 0;
+};
+"ge-cy" = {
+"a-cy" = -40;
+"de-cy" = -30;
+};
+"iu-cy" = {
+"de-cy" = -10;
+"ereversed-cy" = -10;
+"ia-cy" = -10;
+"u-cy" = -20;
+};
+"ka-cy" = {
+"ef-cy" = -10;
+"ereversed-cy" = -10;
+"o-cy" = -10;
 };
 l = {
 periodcentered.loclCAT = -80;
@@ -115297,6 +115461,10 @@ periodcentered.loclCAT = -80;
 };
 "mem-hb" = {
 "yod-hb" = -14.64844;
+};
+o = {
+"ge-cy" = 0;
+"u-cy" = -20;
 };
 one = {
 slash = -30;
@@ -115316,11 +115484,51 @@ seven = {
 four = -30;
 period = -50;
 };
+"sha-cy" = {
+"ereversed-cy" = -20;
+"u-cy" = -10;
+};
+"shcha-cy" = {
+"de-cy" = 10;
+"o-cy" = -10;
+"te-cy" = -10;
+"u-cy" = -10;
+};
+"softsign-cy" = {
+"te-cy" = -30;
+};
 "tav-hb" = {
 "yod-hb" = -9.76562;
 };
+"te-cy" = {
+"a-cy" = -40;
+"che-cy" = -20;
+"de-cy" = -30;
+"em-cy" = -20;
+"ereversed-cy" = -40;
+"ia-cy" = -40;
+o = -10;
+};
 three = {
 slash = -40;
+};
+"tse-cy" = {
+"ef-cy" = -20;
+"ereversed-cy" = -10;
+};
+"u-cy" = {
+"a-cy" = -20;
+"de-cy" = -20;
+"el-cy" = -10;
+"em-cy" = -20;
+"er-cy" = 0;
+"ereversed-cy" = -20;
+"es-cy" = -10;
+"ia-cy" = -10;
+"ie-cy" = -10;
+o = -10;
+"shcha-cy" = -10;
+"te-cy" = -10;
 };
 v = {
 period = -60;
@@ -115332,232 +115540,142 @@ period = -60;
 "bet-hb" = -48.82812;
 "yod-hb" = -14.64844;
 };
-"ka-cy" = {
-"o-cy" = -10;
-"ereversed-cy" = -10;
-"ef-cy" = -10;
-};
-"u-cy" = {
-"te-cy" = -10;
-"el-cy" = -10;
-"er-cy" = 0;
-"a-cy" = -20;
-"de-cy" = -20;
-"ie-cy" = -10;
-"em-cy" = -20;
-"es-cy" = -10;
-"ia-cy" = -10;
-"ereversed-cy" = -20;
-"shcha-cy" = -10;
-o = -10;
-};
-"A-cy" = {
-"u-cy" = -20;
-"Ze-cy" = -20;
-"El-cy" = -20;
-"Ia-cy" = -40;
-"Che-cy" = -20;
-"Te-cy" = -20;
-"Hardsign-cy" = -20;
-};
-"De-cy" = {
-"u-cy" = -20;
-"Ze-cy" = -10;
-"U-cy" = -20;
-"O-cy" = -30;
-"Hardsign-cy" = -30;
-"Che-cy" = -20;
-"Te-cy" = -50;
-"Ef-cy" = -40;
-};
-"te-cy" = {
-"a-cy" = -40;
-"de-cy" = -30;
-"em-cy" = -20;
-"ereversed-cy" = -40;
-"ia-cy" = -40;
-"che-cy" = -20;
-o = -10;
-};
-o = {
-"u-cy" = -20;
-"ge-cy" = 0;
-};
-"er-cy" = {
-"ereversed-cy" = -10;
-"el-cy" = -10;
-};
 "ze-cy" = {
-"u-cy" = -10;
 "a-cy" = -10;
 "de-cy" = -10;
 "el-cy" = -10;
 "ereversed-cy" = -10;
-};
-"Ge-cy" = {
-"u-cy" = -40;
-"o-cy" = -40;
-"de-cy" = -50;
-"A-cy" = -50;
-"De-cy" = -30;
-"El-cy" = -40;
-"Ia-cy" = -50;
-"Ze-cy" = -10;
-"U-cy" = -20;
-"Ef-cy" = -20;
-"Che-cy" = -10;
-};
-"U-cy" = {
-O = -20;
-"A-cy" = -40;
-"De-cy" = -50;
-"Ia-cy" = -30;
-"El-cy" = -40;
-};
-"ge-cy" = {
-"de-cy" = -30;
-"a-cy" = -40;
-};
-"Te-cy" = {
-"A-cy" = -50;
-"De-cy" = -40;
-"Ze-cy" = -10;
-"El-cy" = -50;
-"Ia-cy" = -30;
-};
-"Er-cy" = {
-"A-cy" = -40;
-"Ze-cy" = -10;
-"De-cy" = -40;
-"Zhe-cy" = -20;
-"El-cy" = -40;
-"Ia-cy" = -10;
-};
-"Ia-cy" = {
-O = 0;
-"El-cy" = -10;
-};
-"Iu-cy" = {
-"A-cy" = -10;
-"De-cy" = -30;
-"Zhe-cy" = -30;
-"Che-cy" = -10;
-"Hardsign-cy" = -10;
-"Ia-cy" = -30;
-};
-"Che-cy" = {
-"A-cy" = -10;
-"De-cy" = -10;
-"Ia-cy" = -10;
-};
-"Be-cy" = {
-"De-cy" = -10;
-"El-cy" = -10;
-"Che-cy" = -10;
-"Ia-cy" = -20;
-};
-"Ve-cy" = {
-"De-cy" = -20;
-"El-cy" = -10;
-"Ia-cy" = -10;
-};
-"O-cy" = {
-"De-cy" = 0;
-"Ia-cy" = -10;
-};
-"Ef-cy" = {
-"Zhe-cy" = -10;
-"De-cy" = -20;
-"Ze-cy" = -10;
-"Ereversed-cy" = -10;
-"Hardsign-cy" = -10;
-};
-"Ha-cy" = {
-"Ze-cy" = -10;
-};
-"Tse-cy" = {
-"Ze-cy" = -10;
-"Te-cy" = -50;
-"U-cy" = -10;
-"Hardsign-cy" = -60;
-};
-"Ze-cy" = {
-"El-cy" = -20;
-};
-"El-cy" = {
-"Ia-cy" = -20;
-};
-"Pe-cy" = {
-"Ia-cy" = -30;
-};
-"Shcha-cy" = {
-"Te-cy" = -60;
-"Che-cy" = -40;
-};
-"de-cy" = {
-"de-cy" = 10;
-"u-cy" = -10;
-"che-cy" = -20;
-"te-cy" = -10;
-"ef-cy" = -10;
-"hardsign-cy" = -10;
-o = -20;
-};
-"tse-cy" = {
-"ef-cy" = -20;
-"ereversed-cy" = -10;
-};
-"ereversed-cy" = {
-o = 0;
-};
-"shcha-cy" = {
-"de-cy" = 10;
-"o-cy" = -10;
-"te-cy" = -10;
 "u-cy" = -10;
 };
 "zhe-cy" = {
 "ef-cy" = -10;
 };
-"softsign-cy" = {
-"te-cy" = -30;
-};
-"ef-cy" = {
-o = -10;
-"ereversed-cy" = -10;
-"a-cy" = -20;
-"el-cy" = 0;
-"te-cy" = -20;
-};
-"a-cy" = {
-"ereversed-cy" = -10;
-};
-"el-cy" = {
-"u-cy" = -10;
-};
-"sha-cy" = {
-"u-cy" = -10;
-"ereversed-cy" = -20;
-};
-"iu-cy" = {
-"u-cy" = -20;
-"ereversed-cy" = -10;
-"de-cy" = -10;
-"ia-cy" = -10;
-};
 };
 "156B637B-193E-48A3-AAC8-7B4A3960F885" = {
+"A-cy" = {
+"Che-cy" = -20;
+"El-cy" = -40;
+"Hardsign-cy" = -30;
+"Ia-cy" = -20;
+"Te-cy" = -10;
+"U-cy" = -10;
+"Ze-cy" = -20;
+"u-cy" = -20;
+};
 B = {
 parenright = -40;
+};
+"Be-cy" = {
+"Che-cy" = -30;
+"De-cy" = -30;
+"El-cy" = -40;
+"Ha-cy" = -20;
+"Ia-cy" = -40;
+"U-cy" = -10;
+"Ze-cy" = -10;
+};
+"Che-cy" = {
+"A-cy" = 0;
+"De-cy" = -10;
+"Ia-cy" = -10;
 };
 D = {
 period = -120;
 };
+"De-cy" = {
+"Che-cy" = -50;
+"Ef-cy" = -10;
+"El-cy" = -10;
+"Hardsign-cy" = -30;
+"O-cy" = -10;
+"Te-cy" = -20;
+"U-cy" = -30;
+"Ze-cy" = -30;
+"u-cy" = -30;
+};
+"Ef-cy" = {
+"De-cy" = -40;
+"Ereversed-cy" = -10;
+"Hardsign-cy" = -10;
+"Ze-cy" = -10;
+"Zhe-cy" = -30;
+};
+"El-cy" = {
+"Ia-cy" = -10;
+};
+"En-cy" = {
+"Hardsign-cy" = 0;
+};
+"Er-cy" = {
+"A-cy" = -30;
+"De-cy" = -50;
+"El-cy" = -60;
+"Ereversed-cy" = -10;
+"Hardsign-cy" = -10;
+"Ia-cy" = -30;
+"Ze-cy" = -20;
+"Zhe-cy" = -20;
+};
+"Ereversed-cy" = {
+"De-cy" = -40;
+};
+"Es-cy" = {
+"Che-cy" = -10;
+};
+"Ge-cy" = {
+"A-cy" = -50;
+"Che-cy" = -20;
+"De-cy" = -40;
+"Ef-cy" = -10;
+"El-cy" = -40;
+"Er-cy" = 0;
+"Ereversed-cy" = -10;
+"Ia-cy" = -50;
+"U-cy" = -10;
+"Ze-cy" = -10;
+"de-cy" = -30;
+"o-cy" = -30;
+"u-cy" = -40;
+};
+"Ha-cy" = {
+"Ze-cy" = -10;
+};
+"Hardsign-cy" = {
+"Ef-cy" = 10;
+"El-cy" = -20;
+"Ia-cy" = -10;
+};
+"Ia-cy" = {
+"De-cy" = -10;
+"El-cy" = -10;
+"Hardsign-cy" = 0;
+};
+"Ie-cy" = {
+"Che-cy" = -10;
+"Ia-cy" = -20;
+};
+"Iu-cy" = {
+"A-cy" = -10;
+"Che-cy" = 0;
+"De-cy" = -30;
+"Hardsign-cy" = -20;
+"Ia-cy" = -10;
+"Zhe-cy" = -30;
+};
 K = {
 v = -20;
 };
+"Ka-cy" = {
+"O-cy" = -20;
+};
 L = {
 asterisk = -50;
+};
+"O-cy" = {
+"Che-cy" = -10;
+"De-cy" = -10;
+"El-cy" = -10;
+"Ia-cy" = -10;
 };
 P = {
 A = -40;
@@ -115569,15 +115687,41 @@ hyphen = -60;
 parenright = -50;
 period = -170;
 };
+"Pe-cy" = {
+"Ia-cy" = -20;
+};
 R = {
 backslash = -40;
 };
 S = {
 S = -24.41406;
 };
+"Shcha-cy" = {
+"Che-cy" = -40;
+"Te-cy" = -30;
+};
 T = {
 A = -20;
 a = -20;
+};
+"Te-cy" = {
+"A-cy" = -30;
+"De-cy" = -40;
+"El-cy" = -40;
+"Ia-cy" = -40;
+"Ze-cy" = -10;
+};
+"Tse-cy" = {
+"Hardsign-cy" = -40;
+"Te-cy" = -40;
+"U-cy" = -20;
+"Ze-cy" = -10;
+};
+"U-cy" = {
+"A-cy" = -20;
+"De-cy" = -60;
+"El-cy" = -40;
+"Ia-cy" = -30;
 };
 V = {
 A = -40;
@@ -115585,20 +115729,114 @@ a = -40;
 ampersand = -60;
 at = -30;
 };
+"Ve-cy" = {
+"De-cy" = -10;
+"El-cy" = -30;
+"Ia-cy" = -20;
+"U-cy" = -10;
+};
+"Ze-cy" = {
+"El-cy" = -10;
+};
+"Zhe-cy" = {
+"A-cy" = -10;
+"Che-cy" = -10;
+"Ef-cy" = -20;
+"El-cy" = -10;
+"Ze-cy" = -10;
+};
+"a-cy" = {
+"ef-cy" = 0;
+"ereversed-cy" = -10;
+"u-cy" = -10;
+};
 backslash = {
 O = -50;
+};
+"be-cy" = {
+"ereversed-cy" = -20;
+"u-cy" = -10;
 };
 "bet-hb" = {
 "lamed-hb" = -14.64844;
 };
+"che-cy" = {
+"el-cy" = -10;
+"ia-cy" = -20;
+};
+"de-cy" = {
+"che-cy" = -10;
+"de-cy" = 20;
+"ef-cy" = -20;
+"ge-cy" = 0;
+"hardsign-cy" = -10;
+"te-cy" = -20;
+"tse-cy" = -10;
+"u-cy" = -20;
+};
+"ef-cy" = {
+"a-cy" = -10;
+"de-cy" = -30;
+"el-cy" = -10;
+"ereversed-cy" = -20;
+"te-cy" = -10;
+"zhe-cy" = -10;
+};
+"el-cy" = {
+"u-cy" = -10;
+};
+"er-cy" = {
+"de-cy" = -40;
+"el-cy" = -20;
+"ereversed-cy" = -20;
+"u-cy" = -10;
+};
+"ereversed-cy" = {
+"de-cy" = -10;
+};
+"ge-cy" = {
+"a-cy" = -10;
+"de-cy" = -40;
+};
 "gimel-hb" = {
 "lamed-hb" = -9.76562;
+};
+"ha-cy" = {
+"de-cy" = 10;
+};
+"hardsign-cy" = {
+"a-cy" = 10;
+"ia-cy" = -10;
+};
+"ia-cy" = {
+"hardsign-cy" = -10;
+"u-cy" = -10;
+};
+"iu-cy" = {
+"de-cy" = -10;
+"ereversed-cy" = -20;
+"ia-cy" = -20;
+"u-cy" = -10;
+};
+"ka-cy" = {
+"che-cy" = -10;
+"ef-cy" = -20;
+"ereversed-cy" = -10;
+"o-cy" = -20;
+"u-cy" = -10;
 };
 "lamed-hb" = {
 "bet-hb" = -19.53125;
 };
 "mem-hb" = {
 "yod-hb" = -14.64844;
+};
+"o-cy" = {
+"de-cy" = -10;
+"el-cy" = -10;
+"ereversed-cy" = -20;
+"ia-cy" = -10;
+"u-cy" = -10;
 };
 period = {
 O = -50;
@@ -115611,8 +115849,57 @@ four = -40;
 hyphen = -30;
 period = -70;
 };
+"sha-cy" = {
+"ereversed-cy" = 0;
+"u-cy" = -10;
+};
+"shcha-cy" = {
+"de-cy" = 20;
+"o-cy" = -10;
+"te-cy" = -20;
+"u-cy" = -10;
+};
+"softsign-cy" = {
+"te-cy" = -20;
+"u-cy" = -10;
+};
 "tav-hb" = {
 "yod-hb" = -9.76562;
+};
+"te-cy" = {
+"a-cy" = -20;
+"che-cy" = -10;
+"de-cy" = -20;
+"em-cy" = -10;
+"ereversed-cy" = -10;
+"ia-cy" = -10;
+};
+"tse-cy" = {
+"de-cy" = 20;
+"ef-cy" = -20;
+"ereversed-cy" = -10;
+"hardsign-cy" = -10;
+"o-cy" = -20;
+"u-cy" = -20;
+};
+"u-cy" = {
+"a-cy" = -30;
+"be-cy" = -20;
+"de-cy" = -60;
+"el-cy" = -30;
+"em-cy" = -20;
+"er-cy" = -20;
+"ereversed-cy" = -50;
+"es-cy" = -20;
+"ge-cy" = -10;
+"ia-cy" = -30;
+"ie-cy" = -20;
+"ka-cy" = -10;
+"o-cy" = -10;
+"shcha-cy" = -10;
+"te-cy" = -20;
+"ze-cy" = -20;
+"zhe-cy" = -30;
 };
 v = {
 period = -90;
@@ -115626,299 +115913,17 @@ period = -90;
 "vav-hb" = -9.76562;
 "yod-hb" = -14.64844;
 };
-"ka-cy" = {
-"o-cy" = -20;
-"u-cy" = -10;
-"ereversed-cy" = -10;
-"ef-cy" = -20;
-"che-cy" = -10;
-};
-"u-cy" = {
-"te-cy" = -20;
-"el-cy" = -30;
-"a-cy" = -30;
-"be-cy" = -20;
-"de-cy" = -60;
-"ze-cy" = -20;
-"ka-cy" = -10;
-"o-cy" = -10;
-"er-cy" = -20;
-"ie-cy" = -20;
-"zhe-cy" = -30;
-"em-cy" = -20;
-"es-cy" = -20;
-"ia-cy" = -30;
-"ereversed-cy" = -50;
-"shcha-cy" = -10;
-"ge-cy" = -10;
-};
-"te-cy" = {
-"a-cy" = -20;
-"de-cy" = -20;
-"em-cy" = -10;
-"ereversed-cy" = -10;
-"ia-cy" = -10;
-"che-cy" = -10;
-};
-"De-cy" = {
-"u-cy" = -30;
-"Ze-cy" = -30;
-"U-cy" = -30;
-"O-cy" = -10;
-"Hardsign-cy" = -30;
-"El-cy" = -10;
-"Che-cy" = -50;
-"Te-cy" = -20;
-"Ef-cy" = -10;
-};
-"A-cy" = {
-"u-cy" = -20;
-"Ze-cy" = -20;
-"El-cy" = -40;
-"Ia-cy" = -20;
-"Che-cy" = -20;
-"Te-cy" = -10;
-"U-cy" = -10;
-"Hardsign-cy" = -30;
-};
-"er-cy" = {
-"u-cy" = -10;
-"de-cy" = -40;
-"ereversed-cy" = -20;
-"el-cy" = -20;
-};
 "ze-cy" = {
-"u-cy" = -20;
 "a-cy" = -30;
 "de-cy" = -20;
 "el-cy" = -20;
 "ereversed-cy" = -20;
 "ia-cy" = -20;
-};
-"Ge-cy" = {
-"u-cy" = -40;
-"o-cy" = -30;
-"de-cy" = -30;
-"A-cy" = -50;
-"De-cy" = -40;
-"El-cy" = -40;
-"Ia-cy" = -50;
-"Ereversed-cy" = -10;
-"Ze-cy" = -10;
-"Er-cy" = 0;
-"U-cy" = -10;
-"Ef-cy" = -10;
-"Che-cy" = -20;
-};
-"ge-cy" = {
-"de-cy" = -40;
-"a-cy" = -10;
-};
-"Zhe-cy" = {
-"A-cy" = -10;
-"Ef-cy" = -20;
-"Ze-cy" = -10;
-"El-cy" = -10;
-"Che-cy" = -10;
-};
-"U-cy" = {
-"A-cy" = -20;
-"De-cy" = -60;
-"El-cy" = -40;
-"Ia-cy" = -30;
-};
-"Te-cy" = {
-"A-cy" = -30;
-"De-cy" = -40;
-"Ze-cy" = -10;
-"El-cy" = -40;
-"Ia-cy" = -40;
-};
-"Er-cy" = {
-"A-cy" = -30;
-"Ze-cy" = -20;
-"De-cy" = -50;
-"Zhe-cy" = -20;
-"El-cy" = -60;
-"Ereversed-cy" = -10;
-"Hardsign-cy" = -10;
-"Ia-cy" = -30;
-};
-"Iu-cy" = {
-"A-cy" = -10;
-"De-cy" = -30;
-"Zhe-cy" = -30;
-"Che-cy" = 0;
-"Hardsign-cy" = -20;
-"Ia-cy" = -10;
-};
-"Che-cy" = {
-"A-cy" = 0;
-"De-cy" = -10;
-"Ia-cy" = -10;
-};
-"Be-cy" = {
-"De-cy" = -30;
-"El-cy" = -40;
-"U-cy" = -10;
-"Che-cy" = -30;
-"Ha-cy" = -20;
-"Ia-cy" = -40;
-"Ze-cy" = -10;
-};
-"Ve-cy" = {
-"De-cy" = -10;
-"El-cy" = -30;
-"U-cy" = -10;
-"Ia-cy" = -20;
-};
-"O-cy" = {
-"De-cy" = -10;
-"El-cy" = -10;
-"Che-cy" = -10;
-"Ia-cy" = -10;
-};
-"Ereversed-cy" = {
-"De-cy" = -40;
-};
-"Ie-cy" = {
-"Ia-cy" = -20;
-"Che-cy" = -10;
-};
-"Ef-cy" = {
-"Zhe-cy" = -30;
-"De-cy" = -40;
-"Ze-cy" = -10;
-"Ereversed-cy" = -10;
-"Hardsign-cy" = -10;
-};
-"Ha-cy" = {
-"Ze-cy" = -10;
-};
-"Tse-cy" = {
-"Ze-cy" = -10;
-"Te-cy" = -40;
-"U-cy" = -20;
-"Hardsign-cy" = -40;
-};
-"Ze-cy" = {
-"El-cy" = -10;
-};
-"Ka-cy" = {
-"O-cy" = -20;
-};
-"El-cy" = {
-"Ia-cy" = -10;
-};
-"Pe-cy" = {
-"Ia-cy" = -20;
-};
-"Shcha-cy" = {
-"Te-cy" = -30;
-"Che-cy" = -40;
-};
-"Es-cy" = {
-"Che-cy" = -10;
-};
-"En-cy" = {
-"Hardsign-cy" = 0;
-};
-"Hardsign-cy" = {
-"El-cy" = -20;
-"Ia-cy" = -10;
-"Ef-cy" = 10;
-};
-"Ia-cy" = {
-"Hardsign-cy" = 0;
-"De-cy" = -10;
-"El-cy" = -10;
-};
-"hardsign-cy" = {
-"a-cy" = 10;
-"ia-cy" = -10;
-};
-"be-cy" = {
-"ereversed-cy" = -20;
-"u-cy" = -10;
-};
-"de-cy" = {
-"de-cy" = 20;
-"ge-cy" = 0;
 "u-cy" = -20;
-"tse-cy" = -10;
-"che-cy" = -10;
-"te-cy" = -20;
-"ef-cy" = -20;
-"hardsign-cy" = -10;
-};
-"tse-cy" = {
-"de-cy" = 20;
-"o-cy" = -20;
-"u-cy" = -20;
-"ef-cy" = -20;
-"hardsign-cy" = -10;
-"ereversed-cy" = -10;
-};
-"shcha-cy" = {
-"de-cy" = 20;
-"o-cy" = -10;
-"te-cy" = -20;
-"u-cy" = -10;
-};
-"o-cy" = {
-"de-cy" = -10;
-"u-cy" = -10;
-"el-cy" = -10;
-"ia-cy" = -10;
-"ereversed-cy" = -20;
-};
-"ha-cy" = {
-"de-cy" = 10;
 };
 "zhe-cy" = {
-"ereversed-cy" = -10;
 "ef-cy" = -10;
-};
-"softsign-cy" = {
-"te-cy" = -20;
-"u-cy" = -10;
-};
-"a-cy" = {
-"u-cy" = -10;
-"ef-cy" = 0;
 "ereversed-cy" = -10;
-};
-"el-cy" = {
-"u-cy" = -10;
-};
-"sha-cy" = {
-"u-cy" = -10;
-"ereversed-cy" = 0;
-};
-"iu-cy" = {
-"u-cy" = -10;
-"ereversed-cy" = -20;
-"de-cy" = -10;
-"ia-cy" = -20;
-};
-"ia-cy" = {
-"u-cy" = -10;
-"hardsign-cy" = -10;
-};
-"ef-cy" = {
-"de-cy" = -30;
-"ereversed-cy" = -20;
-"a-cy" = -10;
-"zhe-cy" = -10;
-"el-cy" = -10;
-"te-cy" = -10;
-};
-"che-cy" = {
-"el-cy" = -10;
-"ia-cy" = -20;
-};
-"ereversed-cy" = {
-"de-cy" = -10;
 };
 };
 };
