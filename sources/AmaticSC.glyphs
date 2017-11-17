@@ -74000,6 +74000,38 @@ width = 395;
 unicode = 052F;
 },
 {
+glyphname = "em-cy_em-cy";
+layers = (
+{
+components = (
+{
+name = m;
+},
+{
+name = m;
+transform = "{1, 0, 0, 1, 567, 0}";
+}
+);
+layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
+width = 1134;
+},
+{
+components = (
+{
+name = m;
+},
+{
+name = m;
+transform = "{1, 0, 0, 1, 561, 0}";
+}
+);
+layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
+width = 1122;
+}
+);
+note = m_m;
+},
+{
 glyphname = Delta;
 layers = (
 {
