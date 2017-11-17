@@ -197,6 +197,7 @@ automatic = 1;
 code = "sub e e by e_e;
 sub l l by l_l;
 sub m m by m_m;
+sub em-cy em-cy by em-cy_em-cy;
 ";
 name = dlig;
 },
@@ -73998,6 +73999,31 @@ width = 395;
 }
 );
 unicode = 052F;
+},
+{
+glyphname = "ie-cy_ie-cy";
+layers = (
+{
+components = (
+{
+name = e_e;
+}
+);
+layerId = "27A8C2A5-6B67-4598-967C-E5EC4FB8AE70";
+width = 512;
+},
+{
+components = (
+{
+name = e_e;
+}
+);
+layerId = "156B637B-193E-48A3-AAC8-7B4A3960F885";
+width = 568;
+}
+);
+leftMetricsKey = e_e;
+rightMetricsKey = e_e;
 },
 {
 glyphname = "em-cy_em-cy";
