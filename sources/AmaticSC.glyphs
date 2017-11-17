@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"/Er-cy/a-cy/ze-cy/hardsign-cy/ia-cy/er-cy/ie-cy/en-cy/en-cy/yeru-cy/iishort-cy  /che-cy/te-cy/ie-cy/tse-cy  /ereversed-cy/ge-cy/o-cy/ii-cy/es-cy/te-cy/ii-cy/che-cy/en-cy/o-cy \012Spinx of black quartz judge my\012"
+);
 classes = (
 {
 automatic = 1;
