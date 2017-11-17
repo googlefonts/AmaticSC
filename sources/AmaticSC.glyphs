@@ -39,7 +39,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2017-11-17 17:13:25 +0000";
+date = "2017-11-17 20:11:26 +0000";
 designer = "Multiple Designers";
 designerURL = "http://www.sansoxygen.com";
 disablesNiceNames = 1;
@@ -197,6 +197,7 @@ automatic = 1;
 code = "sub e e by e_e;
 sub l l by l_l;
 sub m m by m_m;
+sub ie-cy ie-cy by ie-cy_ie-cy;
 sub em-cy em-cy by em-cy_em-cy;
 ";
 name = dlig;
@@ -116165,5 +116166,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 2;
-versionMinor = 601;
+versionMinor = 610;
 }
