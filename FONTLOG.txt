@@ -21,6 +21,12 @@ If you still have questions or comments, you are more than welcome to post an is
 	ChangeLog:
 Please list both major and minor changes made to Amatic SC here (in case of derivative works) - most recent first.
 
+18 November 2017 (Alexei Vanyashin, Nhung Nguyen)
+— Version 2.610
+— Manually revised Cyrillic metrics to be more loose, and coherent with Latin
+— Merged in Nhungs Vietnamese improvements on hookabove, etc #11
+— Added two Cyrillic ligatures мм ее from Latin equivalents.
+
 14 November 2017 (Alexei Vanyashin)
 — Version 2.600
 — Expansion to GF Cyrillic Pro
@@ -54,3 +60,7 @@ N: Alexei Vanyashin
 E: a@cyreal.org
 W: http://cyreal.org
 D: Cyrillic expansion, Technical part
+
+N: Nhung Nguyen
+E: vns.wonderland@gmail.com
+D: Vietnamese improvements
