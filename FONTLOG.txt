@@ -1,0 +1,66 @@
+	FONTLOG for Amatic SC:
+This file provides detailed information on the Amatic SC Font Software.
+This information should be distributed along with the Amatic SC fonts and any derivative works.
+
+
+	Font Information:
+
+A fun font for fun people! Amatic began as an offshoot of the popular Amatic SC family by Vernon Adams. Ben Nathan, an Israeli designer, added a Hebrew component and adjusted the Latin in many ways, particularly to widen the letter-spacing to better fit the Hebrew.
+
+Brief copyright information:
+
+Amatic SC is free for personal/noncommercial use, AND commercial use.
+
+Amatic SC is licensed under the SIL Open Font License, Version 1.1.
+http://scripts.sil.org/OFL
+This is the standard license of open source fonts and has very few restrictions. Read the "OFL" file included in the Amatic SC folder for detailed information on the license.  
+
+If you still have questions or comments, you are more than welcome to post an issue https://github.com/googlefonts/AmaticSC
+
+
+	ChangeLog:
+Please list both major and minor changes made to Amatic SC here (in case of derivative works) - most recent first.
+
+18 November 2017 (Alexei Vanyashin, Nhung Nguyen)
+— Version 2.610
+— Manually revised Cyrillic metrics to be more loose, and coherent with Latin
+— Merged in Nhungs Vietnamese improvements on hookabove, etc #11
+— Added two Cyrillic ligatures мм ее from Latin equivalents.
+
+14 November 2017 (Alexei Vanyashin)
+— Version 2.600
+— Expansion to GF Cyrillic Pro
+— Support for GF Latin Plus, missing glyphs added
+— issues #10, #12 fixed
+
+24 October 2016 (Alexei Vanyashin)
+— Version 2.505
+— Extended Cyrillic to GF Cyrillic Plus
+— Extended Latin to GF Latin Plus
+
+	Acknowledgements
+If you make modifications be sure to add your name (N), email (E), web-address (W) and description (D). This list is sorted by last name in alphabetical order.
+
+N: Vernon Adams
+E: contact@sansoxygen.com
+W: https://github.com/vernnobile
+D: Designer/creator of Amatic SC
+
+N: Ben Nathan
+E: hafontia@gmail.com
+W: http://hafontia.oketz.com
+D: Hebrew expansion
+
+N: Eugene Spizhovy
+E: spizhovy@gmail.com
+W: http://behance.net/spizh
+D: Cyrillic calligraphy
+
+N: Alexei Vanyashin
+E: a@cyreal.org
+W: http://cyreal.org
+D: Cyrillic expansion, Technical part
+
+N: Nhung Nguyen
+E: vns.wonderland@gmail.com
+D: Vietnamese improvements
